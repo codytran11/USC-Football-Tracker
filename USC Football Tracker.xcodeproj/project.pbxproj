@@ -6,17 +6,34 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		B8408FAB3019CA6B0014B896 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8408FA23019CA6B0014B896 /* Player.swift */; };
+		B8408FAC3019CA6B0014B896 /* Season.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8408FA43019CA6B0014B896 /* Season.swift */; };
+		B8408FAD3019CA6B0014B896 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8408F9F3019CA6B0014B896 /* Bundle-Decodable.swift */; };
+		B8408FAE3019CA6B0014B896 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8408FA13019CA6B0014B896 /* ContentView.swift */; };
+		B8408FAF3019CA6B0014B896 /* USC_Football_TrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8408FA83019CA6B0014B896 /* USC_Football_TrackerApp.swift */; };
+		B8408FB03019CA6B0014B896 /* SeasonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8408FA63019CA6B0014B896 /* SeasonView.swift */; };
+		B8408FB13019CA6B0014B896 /* Theme-Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8408FA73019CA6B0014B896 /* Theme-Colors.swift */; };
+		B8408FB23019CA6B0014B896 /* ComingSoonViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8408FA03019CA6B0014B896 /* ComingSoonViews.swift */; };
+		B8408FB33019CA6B0014B896 /* seasons.json in Resources */ = {isa = PBXBuildFile; fileRef = B8408FA53019CA6B0014B896 /* seasons.json */; };
+		B8408FB43019CA6B0014B896 /* players.json in Resources */ = {isa = PBXBuildFile; fileRef = B8408FA33019CA6B0014B896 /* players.json */; };
+		B8408FB53019CA6B0014B896 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8408F9E3019CA6B0014B896 /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		B8408F73301346790014B896 /* USC Football Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "USC Football Tracker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B8408F9E3019CA6B0014B896 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B8408F9F3019CA6B0014B896 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
+		B8408FA03019CA6B0014B896 /* ComingSoonViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComingSoonViews.swift; sourceTree = "<group>"; };
+		B8408FA13019CA6B0014B896 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B8408FA23019CA6B0014B896 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		B8408FA33019CA6B0014B896 /* players.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = players.json; sourceTree = "<group>"; };
+		B8408FA43019CA6B0014B896 /* Season.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Season.swift; sourceTree = "<group>"; };
+		B8408FA53019CA6B0014B896 /* seasons.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = seasons.json; sourceTree = "<group>"; };
+		B8408FA63019CA6B0014B896 /* SeasonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeasonView.swift; sourceTree = "<group>"; };
+		B8408FA73019CA6B0014B896 /* Theme-Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Theme-Colors.swift"; sourceTree = "<group>"; };
+		B8408FA83019CA6B0014B896 /* USC_Football_TrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = USC_Football_TrackerApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		B8408F75301346790014B896 /* USC Football Tracker */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "USC Football Tracker";
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		B8408F70301346790014B896 /* Frameworks */ = {
@@ -32,8 +49,8 @@
 		B8408F6A301346790014B896 = {
 			isa = PBXGroup;
 			children = (
-				B8408F75301346790014B896 /* USC Football Tracker */,
 				B8408F74301346790014B896 /* Products */,
+				B8408FA93019CA6B0014B896 /* USC Football Tracker */,
 			);
 			sourceTree = "<group>";
 		};
@@ -43,6 +60,56 @@
 				B8408F73301346790014B896 /* USC Football Tracker.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		B8408FA93019CA6B0014B896 /* USC Football Tracker */ = {
+			isa = PBXGroup;
+			children = (
+				B8408FB63019CAE00014B896 /* Views */,
+				B8408FB73019CB3A0014B896 /* Models */,
+				B8408FA83019CA6B0014B896 /* USC_Football_TrackerApp.swift */,
+				B8408FB93019CBF50014B896 /* Resources */,
+				B8408FB83019CBCA0014B896 /* Utilities */,
+			);
+			path = "USC Football Tracker";
+			sourceTree = "<group>";
+		};
+		B8408FB63019CAE00014B896 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B8408FA03019CA6B0014B896 /* ComingSoonViews.swift */,
+				B8408FA13019CA6B0014B896 /* ContentView.swift */,
+				B8408FA63019CA6B0014B896 /* SeasonView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B8408FB73019CB3A0014B896 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B8408FA43019CA6B0014B896 /* Season.swift */,
+				B8408FA23019CA6B0014B896 /* Player.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		B8408FB83019CBCA0014B896 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				B8408F9F3019CA6B0014B896 /* Bundle-Decodable.swift */,
+				B8408FA73019CA6B0014B896 /* Theme-Colors.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		B8408FB93019CBF50014B896 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B8408F9E3019CA6B0014B896 /* Assets.xcassets */,
+				B8408FA33019CA6B0014B896 /* players.json */,
+				B8408FA53019CA6B0014B896 /* seasons.json */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -59,9 +126,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				B8408F75301346790014B896 /* USC Football Tracker */,
 			);
 			name = "USC Football Tracker";
 			packageProductDependencies = (
@@ -109,6 +173,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8408FB33019CA6B0014B896 /* seasons.json in Resources */,
+				B8408FB43019CA6B0014B896 /* players.json in Resources */,
+				B8408FB53019CA6B0014B896 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,6 +186,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8408FAB3019CA6B0014B896 /* Player.swift in Sources */,
+				B8408FAC3019CA6B0014B896 /* Season.swift in Sources */,
+				B8408FAD3019CA6B0014B896 /* Bundle-Decodable.swift in Sources */,
+				B8408FAE3019CA6B0014B896 /* ContentView.swift in Sources */,
+				B8408FAF3019CA6B0014B896 /* USC_Football_TrackerApp.swift in Sources */,
+				B8408FB03019CA6B0014B896 /* SeasonView.swift in Sources */,
+				B8408FB13019CA6B0014B896 /* Theme-Colors.swift in Sources */,
+				B8408FB23019CA6B0014B896 /* ComingSoonViews.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

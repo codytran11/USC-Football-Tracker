@@ -11,7 +11,32 @@ import SwiftUI
 struct USC_Football_TrackerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabView {
+                ContentView()
+                    .tabItem {
+                        Label("Seasons", systemImage: "calendar")
+                    }
+                
+                PredictorView()
+                    .tabItem {
+                        Label("Predictor", systemImage: "chart.line.uptrend.xyaxis")
+                    }
+                
+                LegendsView()
+                    .tabItem {
+                        Label("Legends", systemImage: "star.fill")
+                    }
+                
+                TrophyRoomView()
+                    .tabItem {
+                        Label("Accolades", systemImage: "trophy.fill")
+                    }
+                
+                AboutFootballView()
+                    .tabItem {
+                        Label("About", systemImage: "info.circle")
+                    }
+            }
         }
     }
 }
