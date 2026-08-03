@@ -1,0 +1,407 @@
+{
+  "activityEntities" : [
+    "experimentCreated",
+    [
+      {
+        "createdDate" : "2026-08-01T02:04:46Z",
+        "event" : "experimentCreated",
+        "id" : "1FB027D2-E7A4-4305-B3A5-29D291E890AD",
+        "subtitle" : "USC Season Predictor 1",
+        "title" : "Model Source Created"
+      }
+    ],
+    "trainingDataAdded",
+    [
+      {
+        "createdDate" : "2026-08-01T02:08:01Z",
+        "event" : "trainingDataAdded",
+        "id" : "694753BF-9C4D-48FE-BF0E-5AF1761326A0",
+        "subtitle" : "usc_predictor_training_data_2021_2025.csv",
+        "title" : "Training Data Added"
+      }
+    ],
+    "trainingStarted",
+    [
+      {
+        "createdDate" : "2026-08-01T02:09:27Z",
+        "event" : "trainingStarted",
+        "id" : "20E0C439-F8D9-4764-A5F9-321B59634F29",
+        "subtitle" : "USC Season Predictor 1",
+        "title" : "Training Started"
+      }
+    ],
+    "trainingFinished",
+    [
+      {
+        "createdDate" : "2026-08-01T02:09:28Z",
+        "event" : "trainingFinished",
+        "id" : "45E400A0-0881-4A76-A52C-0FCDCD73B697",
+        "subtitle" : "10 iterations",
+        "title" : "Training Completed"
+      }
+    ]
+  ],
+  "contentDataResult" : {
+    "createdDate" : "2026-08-01T02:08:01Z"
+  },
+  "createdDate" : "2026-08-01T02:04:46Z",
+  "evaluationContainerEntity" : {
+    "createdDate" : "2026-08-01T02:09:28Z",
+    "evaluationEntities" : [
+      {
+        "analysedDataType" : "none",
+        "createdDate" : "2026-08-01T02:09:28Z",
+        "dataResult" : {
+
+        },
+        "id" : "1963ae84-73df-4d08-99dd-950d231eca9b"
+      }
+    ],
+    "id" : "d5866801-fec9-4527-bcf0-380a954b2994",
+    "modifiedDate" : "2026-08-01T02:09:28Z",
+    "previewType" : "tabularClassifier",
+    "testingEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2026-08-01T02:04:46Z",
+      "dataResult" : {
+        "createdDate" : "2026-08-01T02:08:01Z"
+      },
+      "id" : "cbf2f5ca-b2b8-48fd-b5a2-293bdde18a86"
+    },
+    "trainingEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2026-08-01T02:04:46Z",
+      "dataResult" : {
+        "classesCount" : 2,
+        "createdDate" : "2026-08-01T02:08:01Z",
+        "dataAnalysis" : {
+          "classifierAnalysis" : {
+
+          },
+          "issues" : [
+            {
+              "description" : "Data has 65 rows",
+              "severity" : "info"
+            }
+          ],
+          "objectDetectorAnalysis" : {
+            "details" : {
+
+            }
+          },
+          "summary" : {
+            "canUseValidation" : 1,
+            "classCount" : 2,
+            "sampleCount" : 65
+          }
+        },
+        "dataSourceID" : "CF16C395-48D0-4BFD-909F-B6DCF2DF03B6",
+        "dataURL" : "file:///Users/codytran/Downloads/usc_predictor_training_data_2021_2025.csv",
+        "itemsCount" : 65
+      },
+      "dataSourceID" : "CF16C395-48D0-4BFD-909F-B6DCF2DF03B6",
+      "evaluationResult" : {
+        "generalClassifier" : {
+          "accuracy" : 0.8983050847457628,
+          "confusionMatrix" : [
+
+          ],
+          "statsByLabel" : {
+            "0" : {
+              "count" : 25,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.9130434782608695,
+                  "recall" : 0.84
+                }
+              }
+            },
+            "1" : {
+              "count" : 34,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.8888888888888888,
+                  "recall" : 0.9411764705882353
+                }
+              }
+            }
+          }
+        }
+      },
+      "id" : "e63236fb-9960-4166-952e-1abc6fc9bdf0"
+    },
+    "validationEvaluationEntity" : {
+      "analysedDataType" : "auto",
+      "createdDate" : "2026-08-01T02:04:46Z",
+      "dataResult" : {
+        "createdDate" : "2026-08-01T02:08:01Z"
+      },
+      "evaluationResult" : {
+        "generalClassifier" : {
+          "accuracy" : 0.6666666666666666,
+          "confusionMatrix" : [
+
+          ],
+          "statsByLabel" : {
+            "0" : {
+              "count" : 1,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 0.3333333333333333,
+                  "recall" : 1
+                }
+              }
+            },
+            "1" : {
+              "count" : 5,
+              "precisionRecall" : {
+                "success" : {
+                  "precision" : 1,
+                  "recall" : 0.6
+                }
+              }
+            }
+          }
+        }
+      },
+      "id" : "06507e63-133a-4a0f-aa8f-9ab85fc6368c"
+    }
+  },
+  "evaluationEntity" : {
+    "analysedDataType" : "none",
+    "dataResult" : {
+
+    },
+    "id" : "3c549f2d-1ce1-4d42-95a7-86cab6cd933b"
+  },
+  "evaluationState" : "uninitialized",
+  "id" : "FABA9964-9F90-4B33-9DA6-85BD5375F8DB",
+  "modelEntity" : {
+    "createdDate" : "2026-08-01T02:04:46Z",
+    "experimentID" : "FABA9964-9F90-4B33-9DA6-85BD5375F8DB",
+    "id" : "08F0A426-6C21-4421-B34A-11A2CB7581A6",
+    "modelURL" : "Models/USC%20Season%20Predictor%201.mlmodel",
+    "modifiedDate" : "2026-08-01T02:04:46Z",
+    "title" : "",
+    "version" : "1.0"
+  },
+  "modifiedDate" : "2026-08-01T02:09:28Z",
+  "preferredFilename" : "USC Season Predictor 1",
+  "settingEntity" : {
+    "algorithmType" : "maxEnt",
+    "augmentations" : [
+
+    ],
+    "featureNames" : [
+      "seasonYear",
+      "gameIndex",
+      "opponent",
+      "home",
+      "conferenceGame",
+      "uscAPRank",
+      "oppAPRank"
+    ],
+    "generalClassifierType" : {
+      "logisticRegressionClassifier" : {
+        "convergenceThreshold" : 0.01,
+        "featureRescaling" : true,
+        "l1Penalty" : 0,
+        "l2Penalty" : 0.01,
+        "stepSize" : 1
+      }
+    },
+    "handActionClassifierAugmentations" : [
+
+    ],
+    "handPoseClassifierAugmentations" : [
+
+    ],
+    "harVideoAugmentations" : 0,
+    "seedType" : "default",
+    "styleTransferAlgorithmType" : "image",
+    "suggestedColumnTypes" : [
+      "Int",
+      "Int",
+      "String",
+      "Int",
+      "Int",
+      "String",
+      "String",
+      "Int"
+    ],
+    "suggestedColumnValues" : [
+      "2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,023, 2,023, 2,023, 2,023",
+      "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 1, 2, 3, 4",
+      "San Jose State, Stanford, Washington State, Oregon State, Colorado, Utah, Notre Dame, Arizona, Arizona State, UCLA, Brigham Young, California, Rice, Stanford, Fresno State, Oregon State, Arizona State, Washington State, Utah, Arizona, California, Colorado, UCLA, Notre Dame, Pac-12 Championship Game, Tulane, San Jose State, Nevada, Stanford, Arizona State",
+      "1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0",
+      "0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1",
+      "<nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>",
+      "<nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>",
+      "1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1"
+    ],
+    "suggestedColumns" : [
+      "seasonYear",
+      "gameIndex",
+      "opponent",
+      "home",
+      "conferenceGame",
+      "uscAPRank",
+      "oppAPRank",
+      "result"
+    ],
+    "targetColumn" : "result",
+    "taskType" : "generalClassifier",
+    "transferLearningEmbeddingType" : "dynamic"
+  },
+  "snapshotRole" : {
+    "withoutSnapshots" : 0
+  },
+  "state" : "trained",
+  "title" : "USC Season Predictor 1",
+  "trainingEntity" : {
+    "analysedDataType" : "datasource",
+    "checkpointMetrics" : {
+
+    },
+    "dataResult" : {
+      "classesCount" : 2,
+      "columnTypes" : [
+        "Int",
+        "Int",
+        "String",
+        "Int",
+        "Int",
+        "String",
+        "String",
+        "Int"
+      ],
+      "columnValues" : [
+        "2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,023, 2,023, 2,023, 2,023",
+        "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 1, 2, 3, 4",
+        "San Jose State, Stanford, Washington State, Oregon State, Colorado, Utah, Notre Dame, Arizona, Arizona State, UCLA, Brigham Young, California, Rice, Stanford, Fresno State, Oregon State, Arizona State, Washington State, Utah, Arizona, California, Colorado, UCLA, Notre Dame, Pac-12 Championship Game, Tulane, San Jose State, Nevada, Stanford, Arizona State",
+        "1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0",
+        "0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1",
+        "<nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>",
+        "<nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>",
+        "1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1"
+      ],
+      "columns" : [
+        "seasonYear",
+        "gameIndex",
+        "opponent",
+        "home",
+        "conferenceGame",
+        "uscAPRank",
+        "oppAPRank",
+        "result"
+      ],
+      "createdDate" : "2026-08-01T02:08:01Z",
+      "dataAnalysis" : {
+        "classifierAnalysis" : {
+
+        },
+        "issues" : [
+          {
+            "description" : "Data has 65 rows",
+            "severity" : "info"
+          }
+        ],
+        "objectDetectorAnalysis" : {
+          "details" : {
+
+          }
+        },
+        "summary" : {
+          "canUseValidation" : 1,
+          "classCount" : 2,
+          "sampleCount" : 65
+        }
+      },
+      "dataSourceID" : "CF16C395-48D0-4BFD-909F-B6DCF2DF03B6",
+      "dataURL" : "file:///Users/codytran/Downloads/usc_predictor_training_data_2021_2025.csv",
+      "itemsCount" : 65
+    },
+    "dataSourceID" : "CF16C395-48D0-4BFD-909F-B6DCF2DF03B6",
+    "featureExtractionCheckpointMayBeAvailable" : false,
+    "finishTime" : "2026-08-01T02:09:28Z",
+    "progress" : [
+
+    ],
+    "snapshottableCheckpoints" : {
+
+    },
+    "startTime" : "2026-08-01T02:09:27Z",
+    "trainingAccuracy" : 0.8983050847457628,
+    "trainingResults" : {
+      "generalClassifier" : {
+        "accuracy" : 0.8983050847457628,
+        "confusionMatrix" : [
+
+        ],
+        "statsByLabel" : {
+          "0" : {
+            "count" : 25,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.9130434782608695,
+                "recall" : 0.84
+              }
+            }
+          },
+          "1" : {
+            "count" : 34,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.8888888888888888,
+                "recall" : 0.9411764705882353
+              }
+            }
+          }
+        }
+      }
+    },
+    "validationAccuracy" : 0.6666666666666666,
+    "validationResults" : {
+      "generalClassifier" : {
+        "accuracy" : 0.6666666666666666,
+        "confusionMatrix" : [
+
+        ],
+        "statsByLabel" : {
+          "0" : {
+            "count" : 1,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 0.3333333333333333,
+                "recall" : 1
+              }
+            }
+          },
+          "1" : {
+            "count" : 5,
+            "precisionRecall" : {
+              "success" : {
+                "precision" : 1,
+                "recall" : 0.6
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "validationEntity" : {
+    "analysedDataType" : "auto",
+    "dataResult" : {
+      "createdDate" : "2026-08-01T02:08:01Z"
+    },
+    "splitOptions" : {
+      "strategy" : {
+        "automatic" : {
+
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

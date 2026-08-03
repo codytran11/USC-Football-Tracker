@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-08-01T02:04:45Z",
+        "event" : "projectCreated",
+        "id" : "552358EC-4F22-4BFB-869F-94F3F3595F1B",
+        "subtitle" : "USC Season Predictor",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Cody Tran",
+  "createdDate" : "2026-08-01T02:04:45Z",
+  "description" : "",
+  "id" : "0AF38E33-2589-4541-91DF-8F26D9E45394",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-08-01T02:04:45Z",
+  "projectName" : "USC Season Predictor",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "generalClassifier",
+  "title" : "Tabular Classification",
+  "version" : "1.1"
+}

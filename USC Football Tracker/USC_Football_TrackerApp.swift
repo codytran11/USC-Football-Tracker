@@ -22,21 +22,43 @@ struct USC_Football_TrackerApp: App {
                         Label("Predictor", systemImage: "chart.line.uptrend.xyaxis")
                     }
                 
-                LegendsView()
-                    .tabItem {
-                        Label("Legends", systemImage: "star.fill")
-                    }
                 
-                TrophyRoomView()
+                AccoladesView()
                     .tabItem {
                         Label("Accolades", systemImage: "trophy.fill")
                     }
                 
-                AboutFootballView()
+                AboutView()
                     .tabItem {
                         Label("About", systemImage: "info.circle")
                     }
             }
         }
+    }
+}
+
+
+#Preview {
+    TabView {
+        ContentView()
+            .tabItem {
+                Label("Seasons", systemImage: "calendar")
+            }
+
+        PredictorView()
+            .tabItem {
+                Label("Predictor", systemImage: "chart.line.uptrend.xyaxis")
+            }
+
+
+        AccoladesView()
+            .tabItem {
+                Label("Accolades", systemImage: "trophy.fill")
+            }
+
+        AboutView()
+            .tabItem {
+                Label("About", systemImage: "info.circle")
+            }
     }
 }

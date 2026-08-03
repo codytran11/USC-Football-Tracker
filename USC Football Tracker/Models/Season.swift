@@ -35,6 +35,13 @@ struct Season: Codable, Identifiable {
     let games: [GameEntry]
     let roster: [Roster]
     let headCoach: Coach?
+    let finalAPRank: Int?
+    let bowlGame: String?
+    let bowlResult: String?
+    let conference: String?
+    let conferenceRecord: String?
+    let nationalChampion: Bool?
+    let conferenceChampion: Bool?
 
     var record: String {
         let wins = games.filter { $0.outcome == .win }.count

@@ -1,0 +1,41 @@
+{
+  "activityEntities" : [
+    "dataSourceTrainingStarted",
+    [
+      {
+        "createdDate" : "2026-08-02T01:01:25Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "514F514A-BA02-43CE-A9E5-B94DD4F1B0A5",
+        "subtitle" : "USC Season Predictor 2",
+        "title" : "Used By"
+      }
+    ],
+    "dataSourceMetrics",
+    [
+      {
+        "createdDate" : "2026-08-02T01:01:25Z",
+        "event" : "dataSourceMetrics",
+        "id" : "1AB96229-A35D-4BD5-8B3A-8F59E1941958",
+        "subtitle" : "2 Classes, 65 Items",
+        "title" : "Data Summary"
+      }
+    ]
+  ],
+  "createdDate" : "2026-08-02T01:00:31Z",
+  "dataPathRelativeToProjectURL" : "../../../../Downloads/usc_predictor_training_data_no_opponent.csv/",
+  "dataResult" : {
+    "createdDate" : "2026-08-02T01:00:31Z",
+    "dataSourceID" : "115D4AEA-D1FB-43F5-BD4E-D39883E26BE5",
+    "dataURL" : "file:///Users/codytran/Downloads/usc_predictor_training_data_no_opponent.csv"
+  },
+  "dataURL" : "file:///Users/codytran/Downloads/usc_predictor_training_data_no_opponent.csv",
+  "experimentIDs" : [
+    "2F668D0D-921C-4B2F-8B5C-FDEED67FFF10"
+  ],
+  "id" : "115D4AEA-D1FB-43F5-BD4E-D39883E26BE5",
+  "modifiedDate" : "2026-08-02T01:01:25Z",
+  "pathType" : 0,
+  "preferredFilename" : "usc_predictor_training_data_no_opponent.csv",
+  "title" : "usc_predictor_training_data_no_opponent.csv",
+  "version" : "1.0"
+}

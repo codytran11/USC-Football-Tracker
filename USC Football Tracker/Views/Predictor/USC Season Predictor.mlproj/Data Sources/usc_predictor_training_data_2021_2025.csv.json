@@ -1,0 +1,106 @@
+{
+  "activityEntities" : [
+    "dataSourceTrainingStarted",
+    [
+      {
+        "createdDate" : "2026-08-01T02:09:27Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "6E947AF1-F208-4F2A-9CC6-13E4AEAF5A26",
+        "subtitle" : "USC Season Predictor 1",
+        "title" : "Used By"
+      }
+    ],
+    "dataSourceMetrics",
+    [
+      {
+        "createdDate" : "2026-08-01T02:09:27Z",
+        "event" : "dataSourceMetrics",
+        "id" : "ACCA042C-08F9-4F3F-AAA9-E103C16BD337",
+        "subtitle" : "2 Classes, 65 Items",
+        "title" : "Data Summary"
+      }
+    ]
+  ],
+  "createdDate" : "2026-08-01T02:08:01Z",
+  "dataPathRelativeToProjectURL" : "../../../../Downloads/usc_predictor_training_data_2021_2025.csv/",
+  "dataResult" : {
+    "columnTypes" : [
+      "Int",
+      "Int",
+      "String",
+      "Int",
+      "Int",
+      "String",
+      "String",
+      "Int"
+    ],
+    "columnValues" : [
+      "2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,023, 2,023, 2,023, 2,023",
+      "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 1, 2, 3, 4",
+      "San Jose State, Stanford, Washington State, Oregon State, Colorado, Utah, Notre Dame, Arizona, Arizona State, UCLA, Brigham Young, California, Rice, Stanford, Fresno State, Oregon State, Arizona State, Washington State, Utah, Arizona, California, Colorado, UCLA, Notre Dame, Pac-12 Championship Game, Tulane, San Jose State, Nevada, Stanford, Arizona State",
+      "1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0",
+      "0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1",
+      "<nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>",
+      "<nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>, <nil>",
+      "1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1"
+    ],
+    "columns" : [
+      "seasonYear",
+      "gameIndex",
+      "opponent",
+      "home",
+      "conferenceGame",
+      "uscAPRank",
+      "oppAPRank",
+      "result"
+    ],
+    "createdDate" : "2026-08-01T02:08:01Z",
+    "dataAnalysis" : {
+      "classifierAnalysis" : {
+
+      },
+      "issues" : [
+        {
+          "description" : "No target selected",
+          "severity" : "notReady"
+        },
+        {
+          "description" : "Data has 65 rows",
+          "severity" : "info"
+        },
+        {
+          "description" : "No features selected",
+          "severity" : "notReady"
+        }
+      ],
+      "objectDetectorAnalysis" : {
+        "details" : {
+
+        }
+      },
+      "summary" : {
+        "canUseValidation" : 1,
+        "sampleCount" : 65
+      }
+    },
+    "dataSourceID" : "CF16C395-48D0-4BFD-909F-B6DCF2DF03B6",
+    "dataURL" : "file:///Users/codytran/Downloads/usc_predictor_training_data_2021_2025.csv",
+    "error" : {
+      "code" : 1000,
+      "domain" : "composer.error.domain",
+      "errorType" : "notReady",
+      "reason" : "No target selected"
+    },
+    "itemsCount" : 65
+  },
+  "dataURL" : "file:///Users/codytran/Downloads/usc_predictor_training_data_2021_2025.csv",
+  "experimentIDs" : [
+
+  ],
+  "id" : "CF16C395-48D0-4BFD-909F-B6DCF2DF03B6",
+  "modifiedDate" : "2026-08-01T02:56:05Z",
+  "pathType" : 0,
+  "preferredFilename" : "usc_predictor_training_data_2021_2025.csv",
+  "title" : "usc_predictor_training_data_2021_2025.csv",
+  "version" : "1.0"
+}
