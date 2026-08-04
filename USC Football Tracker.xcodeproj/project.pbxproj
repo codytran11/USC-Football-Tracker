@@ -29,6 +29,7 @@
 		B8408FD5301C788A0014B896 /* PredictorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8408FD4301C788A0014B896 /* PredictorView.swift */; };
 		B8408FD7301D8DC50014B896 /* USC Season Predictor.mlproj in Resources */ = {isa = PBXBuildFile; fileRef = B8408FD6301D8DC50014B896 /* USC Season Predictor.mlproj */; };
 		B8408FDD301ECF850014B896 /* USC Season Predictor 2.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = B8408FDC301ECF850014B896 /* USC Season Predictor 2.mlmodel */; };
+		B8408FE0302170DA0014B896 /* fetch_usc_history_8_usage_2021.py in Resources */ = {isa = PBXBuildFile; fileRef = B8408FDF302170DA0014B896 /* fetch_usc_history_8_usage_2021.py */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,7 @@
 		B8408FD4301C788A0014B896 /* PredictorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredictorView.swift; sourceTree = "<group>"; };
 		B8408FD6301D8DC50014B896 /* USC Season Predictor.mlproj */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "USC Season Predictor.mlproj"; sourceTree = "<group>"; };
 		B8408FDC301ECF850014B896 /* USC Season Predictor 2.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "USC Season Predictor 2.mlmodel"; sourceTree = "<group>"; };
+		B8408FDF302170DA0014B896 /* fetch_usc_history_8_usage_2021.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = fetch_usc_history_8_usage_2021.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 		B8408FA93019CA6B0014B896 /* USC Football Tracker */ = {
 			isa = PBXGroup;
 			children = (
+				B8408FDE302170CC0014B896 /* Python Script */,
 				B8408FB63019CAE00014B896 /* Views */,
 				B8408FB73019CB3A0014B896 /* Models */,
 				B8408FA83019CA6B0014B896 /* USC_Football_TrackerApp.swift */,
@@ -169,6 +172,14 @@
 			path = Predictor;
 			sourceTree = "<group>";
 		};
+		B8408FDE302170CC0014B896 /* Python Script */ = {
+			isa = PBXGroup;
+			children = (
+				B8408FDF302170DA0014B896 /* fetch_usc_history_8_usage_2021.py */,
+			);
+			path = "Python Script";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -231,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B8408FB33019CA6B0014B896 /* seasons.json in Resources */,
+				B8408FE0302170DA0014B896 /* fetch_usc_history_8_usage_2021.py in Resources */,
 				B8408FD7301D8DC50014B896 /* USC Season Predictor.mlproj in Resources */,
 				B8408FB43019CA6B0014B896 /* players.json in Resources */,
 				B8408FB53019CA6B0014B896 /* Assets.xcassets in Resources */,
