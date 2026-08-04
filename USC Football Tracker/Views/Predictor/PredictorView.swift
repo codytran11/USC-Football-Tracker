@@ -13,18 +13,18 @@ struct PredictorView: View {
 
     // Official USC 2026 schedule (regular season).
     private let demoGames: [DemoGame] = [
-        DemoGame(gameIndex: 1, opponent: "San José State", isHome: true, conferenceGame: false, uscAPRank: 0, oppAPRank: 0),
-        DemoGame(gameIndex: 2, opponent: "Fresno State", isHome: true, conferenceGame: false, uscAPRank: 0, oppAPRank: 0),
-        DemoGame(gameIndex: 3, opponent: "Louisiana", isHome: true, conferenceGame: false, uscAPRank: 0, oppAPRank: 0),
-        DemoGame(gameIndex: 4, opponent: "Rutgers", isHome: false, conferenceGame: true, uscAPRank: 0, oppAPRank: 0),
-        DemoGame(gameIndex: 5, opponent: "Oregon", isHome: true, conferenceGame: true, uscAPRank: 0, oppAPRank: 0),
-        DemoGame(gameIndex: 6, opponent: "Washington", isHome: true, conferenceGame: true, uscAPRank: 0, oppAPRank: 0),
-        DemoGame(gameIndex: 7, opponent: "Penn State", isHome: false, conferenceGame: true, uscAPRank: 0, oppAPRank: 0),
-        DemoGame(gameIndex: 8, opponent: "Wisconsin", isHome: false, conferenceGame: true, uscAPRank: 0, oppAPRank: 0),
-        DemoGame(gameIndex: 9, opponent: "Ohio State", isHome: true, conferenceGame: true, uscAPRank: 0, oppAPRank: 0),
-        DemoGame(gameIndex: 10, opponent: "Indiana", isHome: false, conferenceGame: true, uscAPRank: 0, oppAPRank: 0),
-        DemoGame(gameIndex: 11, opponent: "Maryland", isHome: true, conferenceGame: true, uscAPRank: 0, oppAPRank: 0),
-        DemoGame(gameIndex: 12, opponent: "UCLA", isHome: false, conferenceGame: true, uscAPRank: 0, oppAPRank: 0)
+        DemoGame(gameIndex: 1, opponent: "San José State", isHome: true, conferenceGame: false, uscAPRank: 0, oppAPRank: 0, hype: 6),
+        DemoGame(gameIndex: 2, opponent: "Fresno State", isHome: true, conferenceGame: false, uscAPRank: 0, oppAPRank: 0, hype: 3),
+        DemoGame(gameIndex: 3, opponent: "Louisiana", isHome: true, conferenceGame: false, uscAPRank: 0, oppAPRank: 0, hype: 4),
+        DemoGame(gameIndex: 4, opponent: "Rutgers", isHome: false, conferenceGame: true, uscAPRank: 0, oppAPRank: 0, hype: 4),
+        DemoGame(gameIndex: 5, opponent: "Oregon", isHome: true, conferenceGame: true, uscAPRank: 0, oppAPRank: 0, hype: 10),
+        DemoGame(gameIndex: 6, opponent: "Washington", isHome: true, conferenceGame: true, uscAPRank: 0, oppAPRank: 0, hype: 6),
+        DemoGame(gameIndex: 7, opponent: "Penn State", isHome: false, conferenceGame: true, uscAPRank: 0, oppAPRank: 0, hype: 7),
+        DemoGame(gameIndex: 8, opponent: "Wisconsin", isHome: false, conferenceGame: true, uscAPRank: 0, oppAPRank: 0, hype: 5),
+        DemoGame(gameIndex: 9, opponent: "Ohio State", isHome: true, conferenceGame: true, uscAPRank: 0, oppAPRank: 0, hype: 10),
+        DemoGame(gameIndex: 10, opponent: "Indiana", isHome: false, conferenceGame: true, uscAPRank: 0, oppAPRank: 0, hype: 9),
+        DemoGame(gameIndex: 11, opponent: "Maryland", isHome: true, conferenceGame: true, uscAPRank: 0, oppAPRank: 0, hype: 5),
+        DemoGame(gameIndex: 12, opponent: "UCLA", isHome: false, conferenceGame: true, uscAPRank: 0, oppAPRank: 0, hype: 9)
     ]
 
     var body: some View {
@@ -57,11 +57,10 @@ struct PredictorView: View {
                             .font(.footnote)
                             .foregroundStyle(.secondary)
                             .multilineTextAlignment(.center)
-
                     }
                     .frame(maxWidth: .infinity)
                     .padding(.vertical, 30)
-                    
+
                     if gamePredictions.isEmpty {
                         ProgressView("Loading predictions...")
                             .frame(maxWidth: .infinity, alignment: .center)
@@ -141,7 +140,8 @@ struct PredictorView: View {
                         opponent: game.opponent,
                         isHome: game.isHome,
                         conferenceGame: game.conferenceGame,
-                        winProbability: winProbability
+                        winProbability: winProbability,
+                        hype: game.hype
                     )
                 )
             }
@@ -168,6 +168,7 @@ private struct DemoGame {
     let conferenceGame: Bool
     let uscAPRank: Int64
     let oppAPRank: Int64
+    let hype: Int
 }
 
 struct GamePrediction: Identifiable {
@@ -176,6 +177,7 @@ struct GamePrediction: Identifiable {
     let isHome: Bool
     let conferenceGame: Bool
     let winProbability: Double
+    let hype: Int
 }
 
 struct HeroPredictionCard: View {
@@ -295,6 +297,8 @@ struct PredictionGameCard: View {
                 }
             }
 
+            HypeMeter(value: game.hype)
+
             GeometryReader { geo in
                 ZStack(alignment: .leading) {
                     Capsule()
@@ -313,6 +317,57 @@ struct PredictionGameCard: View {
             RoundedRectangle(cornerRadius: 14)
                 .stroke(.uscCardinal.opacity(0.15), lineWidth: 1)
         )
+    }
+}
+
+private struct HypeMeter: View {
+    let value: Int
+
+    private var clampedValue: Int {
+        min(max(value, 0), 10)
+    }
+
+    private var label: String {
+        switch clampedValue {
+        case 10:
+            return "Game of the Year"
+        case 9:
+            return "Huge Matchup"
+        case 7...8:
+            return "Big Game"
+        case 4...6:
+            return "Worth Watching"
+        default:
+            return "Low-key"
+        }
+    }
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 6) {
+            HStack {
+                Label("Hype", systemImage: "flame.fill")
+                    .font(.caption.weight(.semibold))
+                    .foregroundStyle(.secondary)
+
+                Spacer()
+
+                Text("\(clampedValue)/10")
+                    .font(.caption.weight(.bold))
+                    .foregroundStyle(.uscCardinal)
+            }
+
+            HStack(spacing: 5) {
+                ForEach(1...10, id: \.self) { index in
+                    Circle()
+                        .fill(index <= clampedValue ? .gray : .gray.opacity(0.18))
+                        .frame(width: 8, height: 8)
+                }
+            }
+
+            Text(label)
+                .font(.caption)
+                .foregroundStyle(.secondary)
+        }
     }
 }
 
