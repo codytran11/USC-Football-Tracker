@@ -30,12 +30,25 @@ A SwiftUI iOS application that lets users explore over 130 years of USC Football
 - **Data Sources:** Official USC Athletics archives, NCAA historical resources
 
 ### Season Predictor
+- Predicts each game on USC's upcoming schedule
+- Displays projected record and game-by-game win probabilities
 - Built using Apple's Create ML and Core ML
-- Predicts every game on USC's schedule
-- Displays projected record
-- Shows game-by-game win probabilities
-- Trained using historical USC football data
-- **Training Data:** CollegeFootballData API
+- Trained on historical USC football games from 2005–2025
+- Uses engineered features including:
+  - Home/Away
+  - Conference game
+  - Game number
+  - Team Elo rating
+  - Opponent Elo rating
+  - Elo difference
+  - Previous season wins
+  - Previous season win percentage
+- Historical training data generated through a custom Python pipeline
+- 2026 preseason team ratings initialized using Phil Steele's 2026 Preseason College Football Rankings
+- **Data Sources:** CollegeFootballData API, Phil Steele 2026 Preseason Rankings (On3)
+**Sources**
+- Historical game, roster, and coaching data: CollegeFootballData API — https://collegefootballdata.com
+- 2026 preseason team strength initialization: Phil Steele 2026 Preseason College Football Rankings (On3) — https://www.on3.com/news/phil-steele-releases-2026-preseason-poll-ranking-all-college-football-teams-1-to-138/
 
 ---
 
