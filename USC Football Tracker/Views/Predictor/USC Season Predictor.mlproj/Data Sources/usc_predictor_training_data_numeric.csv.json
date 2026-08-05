@@ -24,16 +24,81 @@
   "createdDate" : "2026-08-01T02:52:54Z",
   "dataPathRelativeToProjectURL" : "../../../../../../../Downloads/usc_predictor_training_data_numeric.csv/",
   "dataResult" : {
+    "columnTypes" : [
+      "Int",
+      "Int",
+      "String",
+      "Int",
+      "Int",
+      "Int",
+      "Int",
+      "Int"
+    ],
+    "columnValues" : [
+      "2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,021, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,022, 2,023, 2,023, 2,023, 2,023",
+      "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 1, 2, 3, 4",
+      "San Jose State, Stanford, Washington State, Oregon State, Colorado, Utah, Notre Dame, Arizona, Arizona State, UCLA, Brigham Young, California, Rice, Stanford, Fresno State, Oregon State, Arizona State, Washington State, Utah, Arizona, California, Colorado, UCLA, Notre Dame, Pac-12 Championship Game, Tulane, San Jose State, Nevada, Stanford, Arizona State",
+      "1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0",
+      "0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1",
+      "15, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 10, 7, 7, 6, 6, 7, 10, 9, 8, 7, 6, 4, 10, 6, 6, 6, 5",
+      "0, 0, 0, 0, 0, 0, 13, 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 20, 0, 0, 0, 16, 15, 11, 16, 0, 0, 0, 0",
+      "1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1"
+    ],
+    "columns" : [
+      "seasonYear",
+      "gameIndex",
+      "opponent",
+      "home",
+      "conferenceGame",
+      "uscAPRank",
+      "oppAPRank",
+      "result"
+    ],
     "createdDate" : "2026-08-01T02:52:54Z",
+    "dataAnalysis" : {
+      "classifierAnalysis" : {
+
+      },
+      "issues" : [
+        {
+          "description" : "No target selected",
+          "severity" : "notReady"
+        },
+        {
+          "description" : "Data has 65 rows",
+          "severity" : "info"
+        },
+        {
+          "description" : "No features selected",
+          "severity" : "notReady"
+        }
+      ],
+      "objectDetectorAnalysis" : {
+        "details" : {
+
+        }
+      },
+      "summary" : {
+        "canUseValidation" : 1,
+        "sampleCount" : 65
+      }
+    },
     "dataSourceID" : "5FB217BD-CC8D-496F-B5F6-D417E5DAC943",
-    "dataURL" : "file:///Users/codytran/Downloads/usc_predictor_training_data_numeric.csv"
+    "dataURL" : "file:///Users/codytran/Downloads/usc_predictor_training_data_numeric.csv",
+    "error" : {
+      "code" : 1000,
+      "domain" : "composer.error.domain",
+      "errorType" : "notReady",
+      "reason" : "No target selected"
+    },
+    "itemsCount" : 65
   },
   "dataURL" : "file:///Users/codytran/Downloads/usc_predictor_training_data_numeric.csv",
   "experimentIDs" : [
-    "59A683D2-74C9-4BCA-AB02-4553B96B212D"
+
   ],
   "id" : "5FB217BD-CC8D-496F-B5F6-D417E5DAC943",
-  "modifiedDate" : "2026-08-01T02:53:06Z",
+  "modifiedDate" : "2026-08-04T22:12:11Z",
   "pathType" : 0,
   "preferredFilename" : "usc_predictor_training_data_numeric.csv",
   "title" : "usc_predictor_training_data_numeric.csv",

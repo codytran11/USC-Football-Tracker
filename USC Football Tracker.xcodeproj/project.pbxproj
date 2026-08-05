@@ -28,8 +28,9 @@
 		B8408FD1301C24450014B896 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8408FD0301C243E0014B896 /* AboutView.swift */; };
 		B8408FD5301C788A0014B896 /* PredictorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8408FD4301C788A0014B896 /* PredictorView.swift */; };
 		B8408FD7301D8DC50014B896 /* USC Season Predictor.mlproj in Resources */ = {isa = PBXBuildFile; fileRef = B8408FD6301D8DC50014B896 /* USC Season Predictor.mlproj */; };
-		B8408FDD301ECF850014B896 /* USC Season Predictor 2.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = B8408FDC301ECF850014B896 /* USC Season Predictor 2.mlmodel */; };
 		B8408FE0302170DA0014B896 /* fetch_usc_history_8_usage_2021.py in Resources */ = {isa = PBXBuildFile; fileRef = B8408FDF302170DA0014B896 /* fetch_usc_history_8_usage_2021.py */; };
+		B8408FE230229BF50014B896 /* USC Season Predictor V2.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = B8408FE130229BF50014B896 /* USC Season Predictor V2.mlmodel */; };
+		B8408FE43022B44B0014B896 /* team_ratings.json in Resources */ = {isa = PBXBuildFile; fileRef = B8408FE33022B44B0014B896 /* team_ratings.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,8 +56,9 @@
 		B8408FD0301C243E0014B896 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		B8408FD4301C788A0014B896 /* PredictorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredictorView.swift; sourceTree = "<group>"; };
 		B8408FD6301D8DC50014B896 /* USC Season Predictor.mlproj */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "USC Season Predictor.mlproj"; sourceTree = "<group>"; };
-		B8408FDC301ECF850014B896 /* USC Season Predictor 2.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "USC Season Predictor 2.mlmodel"; sourceTree = "<group>"; };
 		B8408FDF302170DA0014B896 /* fetch_usc_history_8_usage_2021.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = fetch_usc_history_8_usage_2021.py; sourceTree = "<group>"; };
+		B8408FE130229BF50014B896 /* USC Season Predictor V2.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "USC Season Predictor V2.mlmodel"; sourceTree = "<group>"; };
+		B8408FE33022B44B0014B896 /* team_ratings.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = team_ratings.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 				B8408F9E3019CA6B0014B896 /* Assets.xcassets */,
 				B8408FA33019CA6B0014B896 /* players.json */,
 				B8408FA53019CA6B0014B896 /* seasons.json */,
+				B8408FE33022B44B0014B896 /* team_ratings.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -167,7 +170,7 @@
 			children = (
 				B8408FD4301C788A0014B896 /* PredictorView.swift */,
 				B8408FD6301D8DC50014B896 /* USC Season Predictor.mlproj */,
-				B8408FDC301ECF850014B896 /* USC Season Predictor 2.mlmodel */,
+				B8408FE130229BF50014B896 /* USC Season Predictor V2.mlmodel */,
 			);
 			path = Predictor;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B8408FB33019CA6B0014B896 /* seasons.json in Resources */,
+				B8408FE43022B44B0014B896 /* team_ratings.json in Resources */,
 				B8408FE0302170DA0014B896 /* fetch_usc_history_8_usage_2021.py in Resources */,
 				B8408FD7301D8DC50014B896 /* USC Season Predictor.mlproj in Resources */,
 				B8408FB43019CA6B0014B896 /* players.json in Resources */,
@@ -259,6 +263,7 @@
 				B8408FAB3019CA6B0014B896 /* Player.swift in Sources */,
 				B8408FAC3019CA6B0014B896 /* Season.swift in Sources */,
 				B8408FD1301C24450014B896 /* AboutView.swift in Sources */,
+				B8408FE230229BF50014B896 /* USC Season Predictor V2.mlmodel in Sources */,
 				B8408FBB301AE64D0014B896 /* AccoladesView.swift in Sources */,
 				B8408FC2301AE9DC0014B896 /* AccoladeData.swift in Sources */,
 				B8408FAD3019CA6B0014B896 /* Bundle-Decodable.swift in Sources */,
@@ -267,7 +272,6 @@
 				B8408FAE3019CA6B0014B896 /* ContentView.swift in Sources */,
 				B8408FBE301AE8910014B896 /* AccoladeCategory.swift in Sources */,
 				B8408FC0301AE8F20014B896 /* AccoladeCard.swift in Sources */,
-				B8408FDD301ECF850014B896 /* USC Season Predictor 2.mlmodel in Sources */,
 				B8408FAF3019CA6B0014B896 /* USC_Football_TrackerApp.swift in Sources */,
 				B8408FCB301C1BD60014B896 /* AboutTopic.swift in Sources */,
 				B8408FC4301AEA0C0014B896 /* AccoladeDetailView.swift in Sources */,
