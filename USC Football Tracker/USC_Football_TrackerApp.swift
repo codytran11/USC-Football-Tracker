@@ -60,5 +60,6 @@ struct USC_Football_TrackerApp: App {
             .tabItem {
                 Label("About", systemImage: "info.circle")
             }
+            .preferredColorScheme(.light)
     }
 }
