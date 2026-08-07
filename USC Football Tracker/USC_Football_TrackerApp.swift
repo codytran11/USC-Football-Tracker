@@ -33,6 +33,7 @@ struct USC_Football_TrackerApp: App {
                         Label("About", systemImage: "info.circle")
                     }
             }
+            .preferredColorScheme(.light)
         }
     }
 }

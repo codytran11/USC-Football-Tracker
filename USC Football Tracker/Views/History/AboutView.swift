@@ -4,7 +4,7 @@ struct AboutView: View {
     var body: some View {
         NavigationStack {
             ScrollView {
-                VStack(alignment: .leading, spacing: 24) {
+                VStack(alignment: .leading, spacing: 32) {
 
                     VStack(spacing: 8) {
                         Text("About USC Football")
@@ -21,13 +21,8 @@ struct AboutView: View {
 
                     ForEach(aboutTopics) { topic in
                         AboutFlipCard(topic: topic)
+                            .padding(.vertical, 32)
                     }
-
-                    VStack(spacing: 12) {
-                        Image("uscLogo")
-                            .resizable()
-                            .scaledToFit()
-                            .frame(width: 80)
 
                         Text("✌️ Fight On!")
                             .font(.title2.bold())
@@ -44,7 +39,7 @@ struct AboutView: View {
             .navigationBarTitleDisplayMode(.inline)
         }
     }
-}
+
 
 #Preview {
     AboutView()
