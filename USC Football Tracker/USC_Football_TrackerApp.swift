@@ -1,66 +1,73 @@
-//
-//  USC_Football_TrackerApp.swift
-//  USC Football Tracker
-//
-//  Created by Cody Tran on 7/24/26.
-//
-
 import SwiftUI
 
 @main
 struct USC_Football_TrackerApp: App {
+
+    @State private var hasEnteredApp = false
+
     var body: some Scene {
         WindowGroup {
-            TabView {
-                ContentView()
-                    .tabItem {
-                        Label("Seasons", systemImage: "calendar")
-                    }
-                
-                PredictorView()
-                    .tabItem {
-                        Label("Predictor", systemImage: "chart.line.uptrend.xyaxis")
-                    }
-                
-                
-                AccoladesView()
-                    .tabItem {
-                        Label("Accolades", systemImage: "trophy.fill")
-                    }
-                
-                AboutView()
-                    .tabItem {
-                        Label("About", systemImage: "info.circle")
-                    }
+            if hasEnteredApp {
+                TabView {
+                    ContentView()
+                        .tabItem {
+                            Label("Seasons", systemImage: "calendar")
+                        }
+
+                    PredictorView()
+                        .tabItem {
+                            Label("Predictor", systemImage: "chart.line.uptrend.xyaxis")
+                        }
+
+                    AccoladesView()
+                        .tabItem {
+                            Label("Accolades", systemImage: "trophy.fill")
+                        }
+
+                    AboutView()
+                        .tabItem {
+                            Label("About", systemImage: "info.circle")
+                        }
+                }
+                .preferredColorScheme(.light)
+
+            } else {
+                LandingView {
+                    hasEnteredApp = true
+                }
+                .preferredColorScheme(.light)
             }
-            .preferredColorScheme(.light)
         }
     }
 }
 
-
 #Preview {
-    TabView {
-        ContentView()
-            .tabItem {
-                Label("Seasons", systemImage: "calendar")
-            }
+    USC_Football_TrackerApp_Preview()
+}
 
-        PredictorView()
-            .tabItem {
-                Label("Predictor", systemImage: "chart.line.uptrend.xyaxis")
-            }
+private struct USC_Football_TrackerApp_Preview: View {
+    var body: some View {
+        TabView {
+            ContentView()
+                .tabItem {
+                    Label("Seasons", systemImage: "calendar")
+                }
 
+            PredictorView()
+                .tabItem {
+                    Label("Predictor", systemImage: "chart.line.uptrend.xyaxis")
+                }
 
-        AccoladesView()
-            .tabItem {
-                Label("Accolades", systemImage: "trophy.fill")
-            }
+            AccoladesView()
+                .tabItem {
+                    Label("Accolades", systemImage: "trophy.fill")
+                }
 
-        AboutView()
-            .tabItem {
-                Label("About", systemImage: "info.circle")
-            }
-            .preferredColorScheme(.light)
+            AboutView()
+                .tabItem {
+                    Label("About", systemImage: "info.circle")
+                }
+        }
+        .preferredColorScheme(.light)
     }
 }

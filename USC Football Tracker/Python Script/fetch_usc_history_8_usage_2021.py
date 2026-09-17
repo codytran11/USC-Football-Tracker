@@ -36,7 +36,7 @@ PLAYER_USAGE_URL = "https://api.collegefootballdata.com/player/usage"
 
 TEAM_NAME = "USC"
 START_YEAR = 1888
-END_YEAR = datetime.now().year - 1
+END_YEAR = datetime.now().year
 
 # Try usage for 2021-2025.
 USAGE_START_YEAR = 2021

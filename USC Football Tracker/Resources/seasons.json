@@ -17926,7 +17926,7 @@
                 "role": "DL"
             },
             {
-                "id": "2021_anthony_beavers_jr",
+                "id": "2021_anthony_beavers",
                 "role": "LB"
             },
             {
@@ -18467,7 +18467,7 @@
             },
             {
                 "id": "2022_devan_thompkins",
-                "role": "DT"
+                "role": "DL"
             },
             {
                 "id": "2022_earl_barquet_jr",
@@ -18514,7 +18514,7 @@
                 "role": "DL"
             },
             {
-                "id": "2022_anthony_beavers_jr",
+                "id": "2022_anthony_beavers",
                 "role": "LB"
             },
             {
@@ -18568,6 +18568,10 @@
             {
                 "id": "2022_tuasivi_nomura",
                 "role": "LB"
+            },
+            {
+                "id": "2022_fabian_ross",
+                "role": "CB"
             },
             {
                 "id": "2022_jacobe_covington",
@@ -18647,10 +18651,6 @@
             },
             {
                 "id": "2022_domani_jackson",
-                "role": "DB"
-            },
-            {
-                "id": "2022_fabian_ross",
                 "role": "DB"
             },
             {
@@ -19053,7 +19053,7 @@
             },
             {
                 "id": "2023_devan_thompkins",
-                "role": "DT"
+                "role": "DL"
             },
             {
                 "id": "2023_elijah_hughes",
@@ -19100,7 +19100,7 @@
                 "role": "DL"
             },
             {
-                "id": "2023_anthony_beavers_jr",
+                "id": "2023_anthony_beavers",
                 "role": "LB"
             },
             {
@@ -19160,6 +19160,10 @@
                 "role": "CB"
             },
             {
+                "id": "2023_fabian_ross",
+                "role": "CB"
+            },
+            {
                 "id": "2023_jacobe_covington",
                 "role": "CB"
             },
@@ -19169,10 +19173,6 @@
             },
             {
                 "id": "2023_l_simpson",
-                "role": "CB"
-            },
-            {
-                "id": "2023_maliki_crawford",
                 "role": "CB"
             },
             {
@@ -19197,6 +19197,10 @@
             },
             {
                 "id": "2023_daniel_jimenez_fulton",
+                "role": "S"
+            },
+            {
+                "id": "2023_maliki_crawford",
                 "role": "S"
             },
             {
@@ -19241,10 +19245,6 @@
             },
             {
                 "id": "2023_domani_jackson",
-                "role": "DB"
-            },
-            {
-                "id": "2023_fabian_ross",
                 "role": "DB"
             },
             {
@@ -19425,7 +19425,7 @@
                 "role": "RB"
             },
             {
-                "id": "2024_bryan_jackson",
+                "id": "2024_bryan_jackson_ii",
                 "role": "RB"
             },
             {
@@ -19473,6 +19473,10 @@
                 "role": "WR"
             },
             {
+                "id": "2024_dj_jordan",
+                "role": "WR"
+            },
+            {
                 "id": "2024_donovan_wood",
                 "role": "WR"
             },
@@ -19486,10 +19490,6 @@
             },
             {
                 "id": "2024_seth_zamora",
-                "role": "WR"
-            },
-            {
-                "id": "2024_xavier_jordan",
                 "role": "WR"
             },
             {
@@ -19602,7 +19602,7 @@
             },
             {
                 "id": "2024_carlon_jones",
-                "role": "DT"
+                "role": "DL"
             },
             {
                 "id": "2024_dj_peevy",
@@ -19610,7 +19610,7 @@
             },
             {
                 "id": "2024_devan_thompkins",
-                "role": "DT"
+                "role": "DL"
             },
             {
                 "id": "2024_elijah_hughes",
@@ -19633,7 +19633,7 @@
                 "role": "DT"
             },
             {
-                "id": "2024_kameryn_fountain",
+                "id": "2024_kameryn_crawford",
                 "role": "DE"
             },
             {
@@ -19641,15 +19641,11 @@
                 "role": "DT"
             },
             {
-                "id": "2024_lorenzo_cowan",
-                "role": "DE"
-            },
-            {
                 "id": "2024_nate_clifton",
                 "role": "DT"
             },
             {
-                "id": "2024_anthony_beavers_jr",
+                "id": "2024_anthony_beavers",
                 "role": "LB"
             },
             {
@@ -19677,6 +19673,10 @@
                 "role": "LB"
             },
             {
+                "id": "2024_lorenzo_cowan",
+                "role": "LB"
+            },
+            {
                 "id": "2024_mason_cobb",
                 "role": "LB"
             },
@@ -19701,19 +19701,11 @@
                 "role": "LB"
             },
             {
-                "id": "2024_braylon_conley",
-                "role": "CB"
-            },
-            {
                 "id": "2024_decarlos_nicholson",
                 "role": "CB"
             },
             {
                 "id": "2024_greedy_vance_jr",
-                "role": "CB"
-            },
-            {
-                "id": "2024_isaiah_rubin",
                 "role": "CB"
             },
             {
@@ -19726,10 +19718,6 @@
             },
             {
                 "id": "2024_john_humphrey",
-                "role": "CB"
-            },
-            {
-                "id": "2024_maliki_crawford",
                 "role": "CB"
             },
             {
@@ -19761,7 +19749,15 @@
                 "role": "S"
             },
             {
+                "id": "2024_isaiah_rubin",
+                "role": "S"
+            },
+            {
                 "id": "2024_kamari_ramsey",
+                "role": "S"
+            },
+            {
+                "id": "2024_maliki_crawford",
                 "role": "S"
             },
             {
@@ -19787,6 +19783,10 @@
             {
                 "id": "2024_ryon_sayeri",
                 "role": "P"
+            },
+            {
+                "id": "2024_braylon_conley",
+                "role": "DB"
             },
             {
                 "id": "2024_denis_lynch",
@@ -19954,15 +19954,15 @@
                 "role": "QB"
             },
             {
+                "id": "2025_gage_roy",
+                "role": "QB"
+            },
+            {
                 "id": "2025_sam_huard",
                 "role": "QB"
             },
             {
                 "id": "2025_dylan_gebbia",
-                "role": "QB"
-            },
-            {
-                "id": "2025_gage_roy",
                 "role": "QB"
             },
             {
@@ -19978,10 +19978,6 @@
                 "role": "RB"
             },
             {
-                "id": "2025_bryan_jackson",
-                "role": "RB"
-            },
-            {
                 "id": "2025_riley_wormley",
                 "role": "RB"
             },
@@ -19991,6 +19987,10 @@
             },
             {
                 "id": "2025_cian_mckelvey",
+                "role": "RB"
+            },
+            {
+                "id": "2025_bryan_jackson_ii",
                 "role": "RB"
             },
             {
@@ -20010,6 +20010,10 @@
                 "role": "WR"
             },
             {
+                "id": "2025_jay_fair",
+                "role": "WR"
+            },
+            {
                 "id": "2025_corey_simms",
                 "role": "WR"
             },
@@ -20018,7 +20022,7 @@
                 "role": "WR"
             },
             {
-                "id": "2025_jay_fair",
+                "id": "2025_dj_jordan",
                 "role": "WR"
             },
             {
@@ -20062,10 +20066,6 @@
                 "role": "WR"
             },
             {
-                "id": "2025_xavier_jordan",
-                "role": "WR"
-            },
-            {
                 "id": "2025_zacharyus_williams",
                 "role": "WR"
             },
@@ -20086,11 +20086,11 @@
                 "role": "TE"
             },
             {
-                "id": "2025_fisher_melton",
+                "id": "2025_joey_olsen",
                 "role": "TE"
             },
             {
-                "id": "2025_joey_olsen",
+                "id": "2025_fisher_melton",
                 "role": "TE"
             },
             {
@@ -20107,6 +20107,10 @@
             },
             {
                 "id": "2025_alex_payne",
+                "role": "OL"
+            },
+            {
+                "id": "2025_cash_jacobsen",
                 "role": "OL"
             },
             {
@@ -20187,15 +20191,11 @@
             },
             {
                 "id": "2025_carlon_jones",
-                "role": "DT"
-            },
-            {
-                "id": "2025_cash_jacobsen",
-                "role": "DT"
+                "role": "DL"
             },
             {
                 "id": "2025_devan_thompkins",
-                "role": "DT"
+                "role": "DL"
             },
             {
                 "id": "2025_floyd_boucard",
@@ -20215,7 +20215,7 @@
             },
             {
                 "id": "2025_jahkeem_stewart",
-                "role": "DE"
+                "role": "DT"
             },
             {
                 "id": "2025_jamaal_jarrett",
@@ -20226,7 +20226,7 @@
                 "role": "DT"
             },
             {
-                "id": "2025_kameryn_fountain",
+                "id": "2025_kameryn_crawford",
                 "role": "DE"
             },
             {
@@ -20246,7 +20246,7 @@
                 "role": "LB"
             },
             {
-                "id": "2025_anthony_beavers_jr",
+                "id": "2025_anthony_beavers",
                 "role": "LB"
             },
             {
@@ -20270,10 +20270,6 @@
                 "role": "LB"
             },
             {
-                "id": "2025_matai_tagoa_i",
-                "role": "LB"
-            },
-            {
                 "id": "2025_roman_marchetti",
                 "role": "LB"
             },
@@ -20290,10 +20286,6 @@
                 "role": "CB"
             },
             {
-                "id": "2025_braylon_conley",
-                "role": "CB"
-            },
-            {
                 "id": "2025_chasen_johnson",
                 "role": "CB"
             },
@@ -20303,18 +20295,6 @@
             },
             {
                 "id": "2025_decarlos_nicholson",
-                "role": "CB"
-            },
-            {
-                "id": "2025_isaiah_rubin",
-                "role": "CB"
-            },
-            {
-                "id": "2025_james_johnson",
-                "role": "CB"
-            },
-            {
-                "id": "2025_kevin_longstreet",
                 "role": "CB"
             },
             {
@@ -20350,6 +20330,14 @@
                 "role": "S"
             },
             {
+                "id": "2025_isaiah_rubin",
+                "role": "S"
+            },
+            {
+                "id": "2025_james_johnson",
+                "role": "S"
+            },
+            {
                 "id": "2025_kamari_ramsey",
                 "role": "S"
             },
@@ -20362,11 +20350,15 @@
                 "role": "S"
             },
             {
+                "id": "2025_kevin_longstreet",
+                "role": "S"
+            },
+            {
                 "id": "2025_marquis_gallegos",
                 "role": "S"
             },
             {
-                "id": "2025_steve_miller",
+                "id": "2025_matai_tagoa_i",
                 "role": "S"
             },
             {
@@ -20386,6 +20378,10 @@
                 "role": "P"
             },
             {
+                "id": "2025_braylon_conley",
+                "role": "DB"
+            },
+            {
                 "id": "2025_caden_chittenden",
                 "role": "PK"
             },
@@ -20400,6 +20396,10 @@
             {
                 "id": "2025_luke_brown",
                 "role": "LS"
+            },
+            {
+                "id": "2025_steve_miller",
+                "role": "DB"
             }
         ],
         "headCoach": {
@@ -20524,6 +20524,634 @@
                 "uscScore": 27,
                 "oppScore": 30,
                 "outcome": "L"
+            }
+        ]
+    },
+    {
+        "id": "2026",
+        "roster": [
+            {
+                "id": "2026_jayden_maiava",
+                "role": "QB"
+            },
+            {
+                "id": "2026_jonas_williams",
+                "role": "QB"
+            },
+            {
+                "id": "2026_alex_medyn",
+                "role": "QB"
+            },
+            {
+                "id": "2026_james_johnson",
+                "role": "QB"
+            },
+            {
+                "id": "2026_sam_huard",
+                "role": "QB"
+            },
+            {
+                "id": "2026_will_doherty",
+                "role": "QB"
+            },
+            {
+                "id": "2026_king_miller",
+                "role": "RB"
+            },
+            {
+                "id": "2026_waymond_jordan",
+                "role": "RB"
+            },
+            {
+                "id": "2026_shahn_alston",
+                "role": "RB"
+            },
+            {
+                "id": "2026_riley_wormley",
+                "role": "RB"
+            },
+            {
+                "id": "2026_deshonne_redeaux",
+                "role": "RB"
+            },
+            {
+                "id": "2026_cian_mckelvey",
+                "role": "RB"
+            },
+            {
+                "id": "2026_kayne_miller",
+                "role": "RB"
+            },
+            {
+                "id": "2026_tyson_park",
+                "role": "RB"
+            },
+            {
+                "id": "2026_trent_mosley",
+                "role": "WR"
+            },
+            {
+                "id": "2026_kayden_dixon_wyatt",
+                "role": "WR"
+            },
+            {
+                "id": "2026_corey_simms",
+                "role": "WR"
+            },
+            {
+                "id": "2026_tron_baker",
+                "role": "WR"
+            },
+            {
+                "id": "2026_tanook_hines",
+                "role": "WR"
+            },
+            {
+                "id": "2026_ethan_feaster",
+                "role": "WR"
+            },
+            {
+                "id": "2026_cameron_sermons",
+                "role": "WR"
+            },
+            {
+                "id": "2026_grant_woods",
+                "role": "WR"
+            },
+            {
+                "id": "2026_griffin_brahm",
+                "role": "WR"
+            },
+            {
+                "id": "2026_luc_weaver",
+                "role": "WR"
+            },
+            {
+                "id": "2026_luke_degner",
+                "role": "WR"
+            },
+            {
+                "id": "2026_marcus_sung",
+                "role": "WR"
+            },
+            {
+                "id": "2026_roderick_tezeno",
+                "role": "WR"
+            },
+            {
+                "id": "2026_romero_ison",
+                "role": "WR"
+            },
+            {
+                "id": "2026_seth_zamora",
+                "role": "WR"
+            },
+            {
+                "id": "2026_terrell_anderson",
+                "role": "WR"
+            },
+            {
+                "id": "2026_zacharyus_williams",
+                "role": "WR"
+            },
+            {
+                "id": "2026_mark_bowman",
+                "role": "TE"
+            },
+            {
+                "id": "2026_carson_tabaracci",
+                "role": "TE"
+            },
+            {
+                "id": "2026_taniela_tupou",
+                "role": "TE"
+            },
+            {
+                "id": "2026_walter_matthews",
+                "role": "TE"
+            },
+            {
+                "id": "2026_tucker_ashcraft",
+                "role": "TE"
+            },
+            {
+                "id": "2026_fisher_melton",
+                "role": "TE"
+            },
+            {
+                "id": "2026_josiah_jefferson",
+                "role": "TE"
+            },
+            {
+                "id": "2026_manoah_leiato",
+                "role": "TE"
+            },
+            {
+                "id": "2026_patrick_o_brien",
+                "role": "TE"
+            },
+            {
+                "id": "2026_aaron_dunn",
+                "role": "OL"
+            },
+            {
+                "id": "2026_alani_noa",
+                "role": "OL"
+            },
+            {
+                "id": "2026_breck_kolojay",
+                "role": "OL"
+            },
+            {
+                "id": "2026_cash_jacobsen",
+                "role": "OL"
+            },
+            {
+                "id": "2026_chase_deniz",
+                "role": "OL"
+            },
+            {
+                "id": "2026_elijah_paige",
+                "role": "OL"
+            },
+            {
+                "id": "2026_elijah_vaikona",
+                "role": "OL"
+            },
+            {
+                "id": "2026_erwin_taomi",
+                "role": "OL"
+            },
+            {
+                "id": "2026_esun_tafa",
+                "role": "OL"
+            },
+            {
+                "id": "2026_hayden_treter",
+                "role": "OL"
+            },
+            {
+                "id": "2026_john_fifita",
+                "role": "OL"
+            },
+            {
+                "id": "2026_justin_tauanuu",
+                "role": "OL"
+            },
+            {
+                "id": "2026_kannon_smith",
+                "role": "OL"
+            },
+            {
+                "id": "2026_kaylon_miller",
+                "role": "OL"
+            },
+            {
+                "id": "2026_keenyi_pepe",
+                "role": "OL"
+            },
+            {
+                "id": "2026_kilian_o_connor",
+                "role": "OL"
+            },
+            {
+                "id": "2026_ratumana_bulabalavu",
+                "role": "OL"
+            },
+            {
+                "id": "2026_ryan_pauley",
+                "role": "OL"
+            },
+            {
+                "id": "2026_tobias_raymond",
+                "role": "OL"
+            },
+            {
+                "id": "2026_travis_leonard",
+                "role": "OL"
+            },
+            {
+                "id": "2026_vlad_dyakonov",
+                "role": "OL"
+            },
+            {
+                "id": "2026_willi_wascher",
+                "role": "OL"
+            },
+            {
+                "id": "2026_alex_vansumeren",
+                "role": "DT"
+            },
+            {
+                "id": "2026_andrew_williams",
+                "role": "DE"
+            },
+            {
+                "id": "2026_braeden_jones",
+                "role": "DT"
+            },
+            {
+                "id": "2026_braylan_shelby",
+                "role": "DE"
+            },
+            {
+                "id": "2026_brendan_cho",
+                "role": "DT"
+            },
+            {
+                "id": "2026_ethan_brougham",
+                "role": "DE"
+            },
+            {
+                "id": "2026_floyd_boucard",
+                "role": "DT"
+            },
+            {
+                "id": "2026_jadyn_ramos",
+                "role": "DE"
+            },
+            {
+                "id": "2026_jahkeem_stewart",
+                "role": "DT"
+            },
+            {
+                "id": "2026_jaimeon_winfield",
+                "role": "DT"
+            },
+            {
+                "id": "2026_jake_johnson",
+                "role": "DT"
+            },
+            {
+                "id": "2026_jamaal_jarrett",
+                "role": "DT"
+            },
+            {
+                "id": "2026_jide_abasiri",
+                "role": "DT"
+            },
+            {
+                "id": "2026_jordan_abarca",
+                "role": "DT"
+            },
+            {
+                "id": "2026_kameryn_crawford",
+                "role": "DE"
+            },
+            {
+                "id": "2026_luke_wafle",
+                "role": "DE"
+            },
+            {
+                "id": "2026_sam_smith",
+                "role": "DE"
+            },
+            {
+                "id": "2026_simote_katoanga",
+                "role": "DE"
+            },
+            {
+                "id": "2026_tomuhini_topui",
+                "role": "DT"
+            },
+            {
+                "id": "2026_ty_swanson",
+                "role": "DE"
+            },
+            {
+                "id": "2026_zuriah_fisher",
+                "role": "DE"
+            },
+            {
+                "id": "2026_austin_engroff",
+                "role": "LB"
+            },
+            {
+                "id": "2026_desman_stephens_ii",
+                "role": "LB"
+            },
+            {
+                "id": "2026_deven_bryant",
+                "role": "LB"
+            },
+            {
+                "id": "2026_elijah_newby",
+                "role": "LB"
+            },
+            {
+                "id": "2026_giancarlo_rufo",
+                "role": "LB"
+            },
+            {
+                "id": "2026_jadyn_walker",
+                "role": "LB"
+            },
+            {
+                "id": "2026_nick_de_fina",
+                "role": "LB"
+            },
+            {
+                "id": "2026_roman_marchetti",
+                "role": "LB"
+            },
+            {
+                "id": "2026_ryan_o_connell",
+                "role": "LB"
+            },
+            {
+                "id": "2026_shaun_scott",
+                "role": "LB"
+            },
+            {
+                "id": "2026_ta_mere_robinson",
+                "role": "LB"
+            },
+            {
+                "id": "2026_talanoa_ili",
+                "role": "LB"
+            },
+            {
+                "id": "2026_taylor_johnson",
+                "role": "LB"
+            },
+            {
+                "id": "2026_alex_graham",
+                "role": "CB"
+            },
+            {
+                "id": "2026_brandon_lockhart",
+                "role": "CB"
+            },
+            {
+                "id": "2026_carrington_pierce",
+                "role": "CB"
+            },
+            {
+                "id": "2026_chasen_johnson",
+                "role": "CB"
+            },
+            {
+                "id": "2026_derek_diniz",
+                "role": "CB"
+            },
+            {
+                "id": "2026_elbert_hill_iv",
+                "role": "CB"
+            },
+            {
+                "id": "2026_jayden_crowder",
+                "role": "CB"
+            },
+            {
+                "id": "2026_jontez_williams",
+                "role": "CB"
+            },
+            {
+                "id": "2026_joshua_holland_ii",
+                "role": "CB"
+            },
+            {
+                "id": "2026_marcelles_williams",
+                "role": "CB"
+            },
+            {
+                "id": "2026_prophet_brown",
+                "role": "CB"
+            },
+            {
+                "id": "2026_rj_sermons",
+                "role": "CB"
+            },
+            {
+                "id": "2026_shawn_sehra",
+                "role": "CB"
+            },
+            {
+                "id": "2026_trestin_castro",
+                "role": "CB"
+            },
+            {
+                "id": "2026_christian_pierce",
+                "role": "S"
+            },
+            {
+                "id": "2026_isaiah_rubin",
+                "role": "S"
+            },
+            {
+                "id": "2026_kendarius_reddick",
+                "role": "S"
+            },
+            {
+                "id": "2026_kennedy_urlacher",
+                "role": "S"
+            },
+            {
+                "id": "2026_madden_riordan",
+                "role": "S"
+            },
+            {
+                "id": "2026_marquis_gallegos",
+                "role": "S"
+            },
+            {
+                "id": "2026_peter_sciarrino",
+                "role": "S"
+            },
+            {
+                "id": "2026_peyton_dyer",
+                "role": "S"
+            },
+            {
+                "id": "2026_lachlan_carrigan",
+                "role": "P"
+            },
+            {
+                "id": "2026_nate_hillenburg",
+                "role": "P"
+            },
+            {
+                "id": "2026_rey_sanchez",
+                "role": "P"
+            },
+            {
+                "id": "2026_ryon_sayeri",
+                "role": "P"
+            },
+            {
+                "id": "2026_william_weisberg",
+                "role": "P"
+            },
+            {
+                "id": "2026_zachary_nandlal",
+                "role": "P"
+            },
+            {
+                "id": "2026_caden_chittenden",
+                "role": "PK"
+            },
+            {
+                "id": "2026_dylan_black",
+                "role": "LS"
+            },
+            {
+                "id": "2026_luke_brown",
+                "role": "LS"
+            }
+        ],
+        "headCoach": {
+            "id": "2026_lincoln_riley",
+            "name": "Lincoln Riley",
+            "role": "Head Coach"
+        },
+        "games": [
+            {
+                "id": 1,
+                "opponent": "San Jos\u00e9 State",
+                "gameDate": "2026-08-29",
+                "home": true,
+                "uscScore": 42,
+                "oppScore": 26,
+                "outcome": "W"
+            },
+            {
+                "id": 2,
+                "opponent": "Fresno State",
+                "gameDate": "2026-09-05",
+                "home": true,
+                "uscScore": 39,
+                "oppScore": 0,
+                "outcome": "W"
+            },
+            {
+                "id": 3,
+                "opponent": "Louisiana",
+                "gameDate": "2026-09-13",
+                "home": true,
+                "uscScore": 49,
+                "oppScore": 30,
+                "outcome": "W"
+            },
+            {
+                "id": 4,
+                "opponent": "Rutgers",
+                "gameDate": "2026-09-19",
+                "home": false,
+                "uscScore": null,
+                "oppScore": null,
+                "outcome": "N/A"
+            },
+            {
+                "id": 5,
+                "opponent": "Oregon",
+                "gameDate": "2026-09-26",
+                "home": true,
+                "uscScore": null,
+                "oppScore": null,
+                "outcome": "N/A"
+            },
+            {
+                "id": 6,
+                "opponent": "Washington",
+                "gameDate": "2026-10-03",
+                "home": true,
+                "uscScore": null,
+                "oppScore": null,
+                "outcome": "N/A"
+            },
+            {
+                "id": 7,
+                "opponent": "Penn State",
+                "gameDate": "2026-10-10",
+                "home": false,
+                "uscScore": null,
+                "oppScore": null,
+                "outcome": "N/A"
+            },
+            {
+                "id": 8,
+                "opponent": "Wisconsin",
+                "gameDate": "2026-10-24",
+                "home": false,
+                "uscScore": null,
+                "oppScore": null,
+                "outcome": "N/A"
+            },
+            {
+                "id": 9,
+                "opponent": "Ohio State",
+                "gameDate": "2026-10-31",
+                "home": true,
+                "uscScore": null,
+                "oppScore": null,
+                "outcome": "N/A"
+            },
+            {
+                "id": 10,
+                "opponent": "Indiana",
+                "gameDate": "2026-11-14",
+                "home": false,
+                "uscScore": null,
+                "oppScore": null,
+                "outcome": "N/A"
+            },
+            {
+                "id": 11,
+                "opponent": "Maryland",
+                "gameDate": "2026-11-21",
+                "home": true,
+                "uscScore": null,
+                "oppScore": null,
+                "outcome": "N/A"
+            },
+            {
+                "id": 12,
+                "opponent": "UCLA",
+                "gameDate": "2026-11-28",
+                "home": false,
+                "uscScore": null,
+                "oppScore": null,
+                "outcome": "N/A"
             }
         ]
     }

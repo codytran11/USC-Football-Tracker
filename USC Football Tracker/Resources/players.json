@@ -13103,12 +13103,12 @@
         "jerseyNumber": 77,
         "usage": null
     },
-    "2021_anthony_beavers_jr": {
-        "id": "2021_anthony_beavers_jr",
-        "name": "Anthony Beavers Jr.",
+    "2021_anthony_beavers": {
+        "id": "2021_anthony_beavers",
+        "name": "Anthony Beavers",
         "grade": "Senior",
         "position": "LB",
-        "jerseyNumber": 15,
+        "jerseyNumber": 2,
         "usage": null
     },
     "2021_colin_mobley": {
@@ -13895,12 +13895,12 @@
         "jerseyNumber": 77,
         "usage": null
     },
-    "2022_anthony_beavers_jr": {
-        "id": "2022_anthony_beavers_jr",
-        "name": "Anthony Beavers Jr.",
+    "2022_anthony_beavers": {
+        "id": "2022_anthony_beavers",
+        "name": "Anthony Beavers",
         "grade": "Senior",
         "position": "LB",
-        "jerseyNumber": 15,
+        "jerseyNumber": 2,
         "usage": null
     },
     "2022_colin_mobley": {
@@ -14066,15 +14066,15 @@
     "2022_raleek_brown": {
         "id": "2022_raleek_brown",
         "name": "Raleek Brown",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "RB",
-        "jerseyNumber": 3,
+        "jerseyNumber": 0,
         "usage": 0.058
     },
     "2022_zion_branch": {
         "id": "2022_zion_branch",
         "name": "Zion Branch",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "S",
         "jerseyNumber": 2,
         "usage": null
@@ -14090,9 +14090,9 @@
     "2022_fabian_ross": {
         "id": "2022_fabian_ross",
         "name": "Fabian Ross",
-        "grade": "Sophomore",
-        "position": "DB",
-        "jerseyNumber": 21,
+        "grade": "Senior",
+        "position": "CB",
+        "jerseyNumber": 17,
         "usage": null
     },
     "2022_brenden_rice": {
@@ -14170,17 +14170,17 @@
     "2022_garrison_madden": {
         "id": "2022_garrison_madden",
         "name": "Garrison Madden",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "LB",
-        "jerseyNumber": 29,
+        "jerseyNumber": 15,
         "usage": null
     },
     "2022_gage_roy": {
         "id": "2022_gage_roy",
         "name": "Gage Roy",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "QB",
-        "jerseyNumber": 28,
+        "jerseyNumber": 12,
         "usage": null
     },
     "2022_josiah_zamora": {
@@ -14234,7 +14234,7 @@
     "2022_carson_tabaracci": {
         "id": "2022_carson_tabaracci",
         "name": "Carson Tabaracci",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "TE",
         "jerseyNumber": 24,
         "usage": null
@@ -14242,9 +14242,9 @@
     "2022_devan_thompkins": {
         "id": "2022_devan_thompkins",
         "name": "Devan Thompkins",
-        "grade": "Junior",
-        "position": "DT",
-        "jerseyNumber": 8,
+        "grade": "Senior",
+        "position": "DL",
+        "jerseyNumber": 1,
         "usage": null
     },
     "2022_c_j__williams": {
@@ -14266,9 +14266,9 @@
     "2022_keegan_patterson": {
         "id": "2022_keegan_patterson",
         "name": "Keegan Patterson",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "QB",
-        "jerseyNumber": 15,
+        "jerseyNumber": 3,
         "usage": null
     },
     "2022_garrett_pomerantz": {
@@ -14298,7 +14298,7 @@
     "2022_roman_marchetti": {
         "id": "2022_roman_marchetti",
         "name": "Roman Marchetti",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "LB",
         "jerseyNumber": 57,
         "usage": null
@@ -14306,7 +14306,7 @@
     "2022_kilian_o_connor": {
         "id": "2022_kilian_o_connor",
         "name": "Kilian O'Connor",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "OL",
         "jerseyNumber": 67,
         "usage": null
@@ -14316,7 +14316,7 @@
         "name": "Cooper Lovelace",
         "grade": "Senior",
         "position": "OL",
-        "jerseyNumber": 70,
+        "jerseyNumber": 58,
         "usage": null
     },
     "2022_austin_overn": {
@@ -14332,7 +14332,7 @@
         "name": "Garth White",
         "grade": "Senior",
         "position": "PK",
-        "jerseyNumber": 98,
+        "jerseyNumber": 0,
         "usage": null
     },
     "2022_aadyn_sleep_dalton": {
@@ -14583,12 +14583,12 @@
         "jerseyNumber": 9,
         "usage": null
     },
-    "2023_anthony_beavers_jr": {
-        "id": "2023_anthony_beavers_jr",
-        "name": "Anthony Beavers Jr.",
+    "2023_anthony_beavers": {
+        "id": "2023_anthony_beavers",
+        "name": "Anthony Beavers",
         "grade": "Senior",
         "position": "LB",
-        "jerseyNumber": 15,
+        "jerseyNumber": 2,
         "usage": null
     },
     "2023_kyron_hudson": {
@@ -14746,7 +14746,7 @@
     "2023_bear_alexander": {
         "id": "2023_bear_alexander",
         "name": "Bear Alexander",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "DL",
         "jerseyNumber": 1,
         "usage": null
@@ -14754,15 +14754,15 @@
     "2023_raleek_brown": {
         "id": "2023_raleek_brown",
         "name": "Raleek Brown",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "RB",
-        "jerseyNumber": 3,
+        "jerseyNumber": 0,
         "usage": 0.046
     },
     "2023_zion_branch": {
         "id": "2023_zion_branch",
         "name": "Zion Branch",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "S",
         "jerseyNumber": 2,
         "usage": null
@@ -14770,7 +14770,7 @@
     "2023_tre_quon_fegans": {
         "id": "2023_tre_quon_fegans",
         "name": "Tre'Quon Fegans",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "CB",
         "jerseyNumber": 3,
         "usage": null
@@ -14794,9 +14794,9 @@
     "2023_fabian_ross": {
         "id": "2023_fabian_ross",
         "name": "Fabian Ross",
-        "grade": "Sophomore",
-        "position": "DB",
-        "jerseyNumber": 21,
+        "grade": "Senior",
+        "position": "CB",
+        "jerseyNumber": 17,
         "usage": null
     },
     "2023_brenden_rice": {
@@ -14874,17 +14874,17 @@
     "2023_garrison_madden": {
         "id": "2023_garrison_madden",
         "name": "Garrison Madden",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "LB",
-        "jerseyNumber": 29,
+        "jerseyNumber": 15,
         "usage": null
     },
     "2023_gage_roy": {
         "id": "2023_gage_roy",
         "name": "Gage Roy",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "QB",
-        "jerseyNumber": 28,
+        "jerseyNumber": 12,
         "usage": null
     },
     "2023_zachariah_branch": {
@@ -14898,16 +14898,16 @@
     "2023_tackett_curtis": {
         "id": "2023_tackett_curtis",
         "name": "Tackett Curtis",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "LB",
-        "jerseyNumber": 4,
+        "jerseyNumber": 24,
         "usage": null
     },
     "2023_maliki_crawford": {
         "id": "2023_maliki_crawford",
         "name": "Maliki Crawford",
-        "grade": "Sophomore",
-        "position": "CB",
+        "grade": "Junior",
+        "position": "S",
         "jerseyNumber": 2,
         "usage": null
     },
@@ -14930,7 +14930,7 @@
     "2023_duce_robinson": {
         "id": "2023_duce_robinson",
         "name": "Duce Robinson",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "WR",
         "jerseyNumber": 0,
         "usage": 0.045
@@ -14938,15 +14938,15 @@
     "2023_malachi_nelson": {
         "id": "2023_malachi_nelson",
         "name": "Malachi Nelson",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "QB",
-        "jerseyNumber": 7,
+        "jerseyNumber": 16,
         "usage": null
     },
     "2023_braylan_shelby": {
         "id": "2023_braylan_shelby",
         "name": "Braylan Shelby",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "DE",
         "jerseyNumber": 10,
         "usage": null
@@ -14986,7 +14986,7 @@
     "2023_carson_tabaracci": {
         "id": "2023_carson_tabaracci",
         "name": "Carson Tabaracci",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "TE",
         "jerseyNumber": 24,
         "usage": 0.019
@@ -14994,15 +14994,15 @@
     "2023_devan_thompkins": {
         "id": "2023_devan_thompkins",
         "name": "Devan Thompkins",
-        "grade": "Junior",
-        "position": "DT",
-        "jerseyNumber": 8,
+        "grade": "Senior",
+        "position": "DL",
+        "jerseyNumber": 1,
         "usage": null
     },
     "2023_quinten_joyner": {
         "id": "2023_quinten_joyner",
         "name": "Quinten Joyner",
-        "grade": "Sophomore",
+        "grade": "Senior",
         "position": "RB",
         "jerseyNumber": 0,
         "usage": 0.061
@@ -15010,7 +15010,7 @@
     "2023_a_marion_peterson": {
         "id": "2023_a_marion_peterson",
         "name": "A'Marion Peterson",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "RB",
         "jerseyNumber": 28,
         "usage": 0.03
@@ -15018,7 +15018,7 @@
     "2023_elijah_paige": {
         "id": "2023_elijah_paige",
         "name": "Elijah Paige",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "OL",
         "jerseyNumber": 72,
         "usage": null
@@ -15026,7 +15026,7 @@
     "2023_micah_banuelos": {
         "id": "2023_micah_banuelos",
         "name": "Micah Banuelos",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "OL",
         "jerseyNumber": 59,
         "usage": null
@@ -15034,15 +15034,15 @@
     "2023_christian_pierce": {
         "id": "2023_christian_pierce",
         "name": "Christian Pierce",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "S",
-        "jerseyNumber": 24,
+        "jerseyNumber": 6,
         "usage": null
     },
     "2023_alani_noa": {
         "id": "2023_alani_noa",
         "name": "Alani Noa",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "OL",
         "jerseyNumber": 77,
         "usage": null
@@ -15060,13 +15060,13 @@
         "name": "Amos Talalele",
         "grade": "Sophomore",
         "position": "OL",
-        "jerseyNumber": 77,
+        "jerseyNumber": 70,
         "usage": null
     },
     "2023_tobias_raymond": {
         "id": "2023_tobias_raymond",
         "name": "Tobias Raymond",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "OL",
         "jerseyNumber": 73,
         "usage": null
@@ -15074,7 +15074,7 @@
     "2023_kade_eldridge": {
         "id": "2023_kade_eldridge",
         "name": "Kade Eldridge",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "TE",
         "jerseyNumber": 44,
         "usage": null
@@ -15106,7 +15106,7 @@
     "2023_roman_marchetti": {
         "id": "2023_roman_marchetti",
         "name": "Roman Marchetti",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "LB",
         "jerseyNumber": 57,
         "usage": null
@@ -15114,7 +15114,7 @@
     "2023_kilian_o_connor": {
         "id": "2023_kilian_o_connor",
         "name": "Kilian O'Connor",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "OL",
         "jerseyNumber": 67,
         "usage": null
@@ -15124,7 +15124,7 @@
         "name": "Cooper Lovelace",
         "grade": "Senior",
         "position": "OL",
-        "jerseyNumber": 70,
+        "jerseyNumber": 58,
         "usage": null
     },
     "2023_garth_white": {
@@ -15132,7 +15132,7 @@
         "name": "Garth White",
         "grade": "Senior",
         "position": "PK",
-        "jerseyNumber": 98,
+        "jerseyNumber": 0,
         "usage": null
     },
     "2023_aadyn_sleep_dalton": {
@@ -15146,7 +15146,7 @@
     "2023_sam_greene": {
         "id": "2023_sam_greene",
         "name": "Sam Greene",
-        "grade": "Sophomore",
+        "grade": "Senior",
         "position": "LB",
         "jerseyNumber": 2,
         "usage": null
@@ -15154,15 +15154,15 @@
     "2023_deijon_laffitte": {
         "id": "2023_deijon_laffitte",
         "name": "Deijon Laffitte",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "DL",
-        "jerseyNumber": 44,
+        "jerseyNumber": 0,
         "usage": null
     },
     "2023_elijah_hughes": {
         "id": "2023_elijah_hughes",
         "name": "Elijah Hughes",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "DL",
         "jerseyNumber": 56,
         "usage": null
@@ -15218,7 +15218,7 @@
     "2023_tyler_robles": {
         "id": "2023_tyler_robles",
         "name": "Tyler Robles",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "PK",
         "jerseyNumber": 95,
         "usage": null
@@ -15335,12 +15335,12 @@
         "jerseyNumber": 91,
         "usage": null
     },
-    "2024_anthony_beavers_jr": {
-        "id": "2024_anthony_beavers_jr",
-        "name": "Anthony Beavers Jr.",
+    "2024_anthony_beavers": {
+        "id": "2024_anthony_beavers",
+        "name": "Anthony Beavers",
         "grade": "Senior",
         "position": "LB",
-        "jerseyNumber": 15,
+        "jerseyNumber": 2,
         "usage": null
     },
     "2024_kyron_hudson": {
@@ -15434,7 +15434,7 @@
     "2024_bear_alexander": {
         "id": "2024_bear_alexander",
         "name": "Bear Alexander",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "DL",
         "jerseyNumber": 1,
         "usage": null
@@ -15442,7 +15442,7 @@
     "2024_zion_branch": {
         "id": "2024_zion_branch",
         "name": "Zion Branch",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "S",
         "jerseyNumber": 2,
         "usage": null
@@ -15458,7 +15458,7 @@
     "2024_jayden_maiava": {
         "id": "2024_jayden_maiava",
         "name": "Jayden Maiava",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "QB",
         "jerseyNumber": 14,
         "usage": 0.368
@@ -15514,17 +15514,17 @@
     "2024_garrison_madden": {
         "id": "2024_garrison_madden",
         "name": "Garrison Madden",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "LB",
-        "jerseyNumber": 29,
+        "jerseyNumber": 15,
         "usage": null
     },
     "2024_gage_roy": {
         "id": "2024_gage_roy",
         "name": "Gage Roy",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "QB",
-        "jerseyNumber": 28,
+        "jerseyNumber": 12,
         "usage": null
     },
     "2024_zachariah_branch": {
@@ -15538,8 +15538,8 @@
     "2024_maliki_crawford": {
         "id": "2024_maliki_crawford",
         "name": "Maliki Crawford",
-        "grade": "Sophomore",
-        "position": "CB",
+        "grade": "Junior",
+        "position": "S",
         "jerseyNumber": 2,
         "usage": null
     },
@@ -15562,7 +15562,7 @@
     "2024_duce_robinson": {
         "id": "2024_duce_robinson",
         "name": "Duce Robinson",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "WR",
         "jerseyNumber": 0,
         "usage": 0.035
@@ -15570,7 +15570,7 @@
     "2024_braylan_shelby": {
         "id": "2024_braylan_shelby",
         "name": "Braylan Shelby",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "DE",
         "jerseyNumber": 10,
         "usage": null
@@ -15602,7 +15602,7 @@
     "2024_carson_tabaracci": {
         "id": "2024_carson_tabaracci",
         "name": "Carson Tabaracci",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "TE",
         "jerseyNumber": 24,
         "usage": null
@@ -15610,15 +15610,15 @@
     "2024_devan_thompkins": {
         "id": "2024_devan_thompkins",
         "name": "Devan Thompkins",
-        "grade": "Junior",
-        "position": "DT",
-        "jerseyNumber": 8,
+        "grade": "Senior",
+        "position": "DL",
+        "jerseyNumber": 1,
         "usage": null
     },
     "2024_quinten_joyner": {
         "id": "2024_quinten_joyner",
         "name": "Quinten Joyner",
-        "grade": "Sophomore",
+        "grade": "Senior",
         "position": "RB",
         "jerseyNumber": 0,
         "usage": 0.094
@@ -15626,7 +15626,7 @@
     "2024_a_marion_peterson": {
         "id": "2024_a_marion_peterson",
         "name": "A'Marion Peterson",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "RB",
         "jerseyNumber": 28,
         "usage": 0.091
@@ -15634,7 +15634,7 @@
     "2024_elijah_paige": {
         "id": "2024_elijah_paige",
         "name": "Elijah Paige",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "OL",
         "jerseyNumber": 72,
         "usage": null
@@ -15642,7 +15642,7 @@
     "2024_micah_banuelos": {
         "id": "2024_micah_banuelos",
         "name": "Micah Banuelos",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "OL",
         "jerseyNumber": 59,
         "usage": null
@@ -15650,15 +15650,15 @@
     "2024_christian_pierce": {
         "id": "2024_christian_pierce",
         "name": "Christian Pierce",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "S",
-        "jerseyNumber": 24,
+        "jerseyNumber": 6,
         "usage": null
     },
     "2024_alani_noa": {
         "id": "2024_alani_noa",
         "name": "Alani Noa",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "OL",
         "jerseyNumber": 77,
         "usage": null
@@ -15676,13 +15676,13 @@
         "name": "Amos Talalele",
         "grade": "Sophomore",
         "position": "OL",
-        "jerseyNumber": 77,
+        "jerseyNumber": 70,
         "usage": null
     },
     "2024_tobias_raymond": {
         "id": "2024_tobias_raymond",
         "name": "Tobias Raymond",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "OL",
         "jerseyNumber": 73,
         "usage": null
@@ -15690,7 +15690,7 @@
     "2024_kade_eldridge": {
         "id": "2024_kade_eldridge",
         "name": "Kade Eldridge",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "TE",
         "jerseyNumber": 44,
         "usage": 0.013
@@ -15698,23 +15698,23 @@
     "2024_marquis_gallegos": {
         "id": "2024_marquis_gallegos",
         "name": "Marquis Gallegos",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "S",
         "jerseyNumber": 30,
         "usage": null
     },
-    "2024_bryan_jackson": {
-        "id": "2024_bryan_jackson",
-        "name": "Bryan Jackson",
-        "grade": "Sophomore",
+    "2024_bryan_jackson_ii": {
+        "id": "2024_bryan_jackson_ii",
+        "name": "Bryan Jackson II",
+        "grade": "Junior",
         "position": "RB",
         "jerseyNumber": 21,
-        "usage": 0.082
+        "usage": null
     },
     "2024_walter_matthews": {
         "id": "2024_walter_matthews",
         "name": "Walter Matthews",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "TE",
         "jerseyNumber": 23,
         "usage": null
@@ -15722,23 +15722,23 @@
     "2024_joey_olsen": {
         "id": "2024_joey_olsen",
         "name": "Joey Olsen",
-        "grade": "Freshman",
+        "grade": "Junior",
         "position": "TE",
-        "jerseyNumber": 18,
+        "jerseyNumber": 4,
         "usage": null
     },
     "2024_isaiah_rubin": {
         "id": "2024_isaiah_rubin",
         "name": "Isaiah Rubin",
-        "grade": "Freshman",
-        "position": "CB",
+        "grade": "Sophomore",
+        "position": "S",
         "jerseyNumber": 38,
         "usage": null
     },
     "2024_marcelles_williams": {
         "id": "2024_marcelles_williams",
         "name": "Marcelles Williams",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "CB",
         "jerseyNumber": 25,
         "usage": null
@@ -15754,9 +15754,9 @@
     "2024_jarvis_boatwright_jr": {
         "id": "2024_jarvis_boatwright_jr",
         "name": "Jarvis Boatwright Jr.",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "DB",
-        "jerseyNumber": 30,
+        "jerseyNumber": 19,
         "usage": null
     },
     "2024_garrett_pomerantz": {
@@ -15770,7 +15770,7 @@
     "2024_roman_marchetti": {
         "id": "2024_roman_marchetti",
         "name": "Roman Marchetti",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "LB",
         "jerseyNumber": 57,
         "usage": null
@@ -15778,7 +15778,7 @@
     "2024_kilian_o_connor": {
         "id": "2024_kilian_o_connor",
         "name": "Kilian O'Connor",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "OL",
         "jerseyNumber": 67,
         "usage": null
@@ -15788,7 +15788,7 @@
         "name": "Garth White",
         "grade": "Senior",
         "position": "PK",
-        "jerseyNumber": 98,
+        "jerseyNumber": 0,
         "usage": null
     },
     "2024_easton_mascarenas_arnold": {
@@ -15802,15 +15802,15 @@
     "2024_makai_saina": {
         "id": "2024_makai_saina",
         "name": "Makai Saina",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "OL",
-        "jerseyNumber": 78,
+        "jerseyNumber": 73,
         "usage": null
     },
     "2024_sam_greene": {
         "id": "2024_sam_greene",
         "name": "Sam Greene",
-        "grade": "Sophomore",
+        "grade": "Senior",
         "position": "LB",
         "jerseyNumber": 2,
         "usage": null
@@ -15818,7 +15818,7 @@
     "2024_justin_tauanuu": {
         "id": "2024_justin_tauanuu",
         "name": "Justin Tauanuu",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "OL",
         "jerseyNumber": 74,
         "usage": null
@@ -15826,39 +15826,39 @@
     "2024_desman_stephens_ii": {
         "id": "2024_desman_stephens_ii",
         "name": "Desman Stephens II",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "LB",
-        "jerseyNumber": 23,
+        "jerseyNumber": 8,
         "usage": null
     },
     "2024_elijah_hughes": {
         "id": "2024_elijah_hughes",
         "name": "Elijah Hughes",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "DL",
         "jerseyNumber": 56,
         "usage": null
     },
-    "2024_xavier_jordan": {
-        "id": "2024_xavier_jordan",
-        "name": "Xavier Jordan",
-        "grade": "Freshman",
+    "2024_dj_jordan": {
+        "id": "2024_dj_jordan",
+        "name": "DJ Jordan",
+        "grade": "Junior",
         "position": "WR",
-        "jerseyNumber": 19,
+        "jerseyNumber": 4,
         "usage": null
     },
     "2024_braylon_conley": {
         "id": "2024_braylon_conley",
         "name": "Braylon Conley",
-        "grade": "Freshman",
-        "position": "CB",
-        "jerseyNumber": 22,
+        "grade": "Junior",
+        "position": "DB",
+        "jerseyNumber": 24,
         "usage": null
     },
-    "2024_kameryn_fountain": {
-        "id": "2024_kameryn_fountain",
-        "name": "Kameryn Fountain",
-        "grade": "Sophomore",
+    "2024_kameryn_crawford": {
+        "id": "2024_kameryn_crawford",
+        "name": "Kameryn Crawford",
+        "grade": "Junior",
         "position": "DE",
         "jerseyNumber": 1,
         "usage": null
@@ -15866,7 +15866,7 @@
     "2024_jide_abasiri": {
         "id": "2024_jide_abasiri",
         "name": "Jide Abasiri",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "DT",
         "jerseyNumber": 97,
         "usage": null
@@ -15874,7 +15874,7 @@
     "2024_hayden_treter": {
         "id": "2024_hayden_treter",
         "name": "Hayden Treter",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "OL",
         "jerseyNumber": 68,
         "usage": null
@@ -15882,7 +15882,7 @@
     "2024_elijah_newby": {
         "id": "2024_elijah_newby",
         "name": "Elijah Newby",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "LB",
         "jerseyNumber": 26,
         "usage": null
@@ -15890,15 +15890,15 @@
     "2024_lorenzo_cowan": {
         "id": "2024_lorenzo_cowan",
         "name": "Lorenzo Cowan",
-        "grade": "Freshman",
-        "position": "DE",
-        "jerseyNumber": 34,
+        "grade": "Junior",
+        "position": "LB",
+        "jerseyNumber": 8,
         "usage": null
     },
     "2024_ratumana_bulabalavu": {
         "id": "2024_ratumana_bulabalavu",
         "name": "Ratumana Bulabalavu",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "OL",
         "jerseyNumber": 75,
         "usage": null
@@ -15906,17 +15906,17 @@
     "2024_carlon_jones": {
         "id": "2024_carlon_jones",
         "name": "Carlon Jones",
-        "grade": "Freshman",
-        "position": "DT",
-        "jerseyNumber": 92,
+        "grade": "Junior",
+        "position": "DL",
+        "jerseyNumber": 91,
         "usage": null
     },
     "2024_jadyn_walker": {
         "id": "2024_jadyn_walker",
         "name": "Jadyn Walker",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "LB",
-        "jerseyNumber": 31,
+        "jerseyNumber": 15,
         "usage": null
     },
     "2024_dylan_gebbia": {
@@ -15946,7 +15946,7 @@
     "2024_tyler_robles": {
         "id": "2024_tyler_robles",
         "name": "Tyler Robles",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "PK",
         "jerseyNumber": 95,
         "usage": null
@@ -15978,7 +15978,7 @@
     "2024_rey_sanchez": {
         "id": "2024_rey_sanchez",
         "name": "Rey Sanchez",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "P",
         "jerseyNumber": 36,
         "usage": null
@@ -16010,7 +16010,7 @@
     "2024_ryon_sayeri": {
         "id": "2024_ryon_sayeri",
         "name": "Ryon Sayeri",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "P",
         "jerseyNumber": 48,
         "usage": null
@@ -16026,15 +16026,15 @@
     "2024_kalolo_ta_aga": {
         "id": "2024_kalolo_ta_aga",
         "name": "Kalolo Ta'aga",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "OL",
-        "jerseyNumber": 58,
+        "jerseyNumber": 51,
         "usage": null
     },
     "2024_kaylon_miller": {
         "id": "2024_kaylon_miller",
         "name": "Kaylon Miller",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "OL",
         "jerseyNumber": 60,
         "usage": null
@@ -16042,9 +16042,9 @@
     "2024_seth_zamora": {
         "id": "2024_seth_zamora",
         "name": "Seth Zamora",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "WR",
-        "jerseyNumber": 82,
+        "jerseyNumber": 31,
         "usage": null
     },
     "2024_donovan_wood": {
@@ -16058,17 +16058,17 @@
     "2024_walker_lyons": {
         "id": "2024_walker_lyons",
         "name": "Walker Lyons",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "TE",
-        "jerseyNumber": 85,
+        "jerseyNumber": 7,
         "usage": 0.024
     },
     "2024_collin_fasse": {
         "id": "2024_collin_fasse",
         "name": "Collin Fasse",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "WR",
-        "jerseyNumber": 89,
+        "jerseyNumber": 82,
         "usage": null
     },
     "2025_kobe_pepe": {
@@ -16087,12 +16087,12 @@
         "jerseyNumber": 2,
         "usage": null
     },
-    "2025_anthony_beavers_jr": {
-        "id": "2025_anthony_beavers_jr",
-        "name": "Anthony Beavers Jr.",
+    "2025_anthony_beavers": {
+        "id": "2025_anthony_beavers",
+        "name": "Anthony Beavers",
         "grade": "Senior",
         "position": "LB",
-        "jerseyNumber": 15,
+        "jerseyNumber": 2,
         "usage": null
     },
     "2025_keeshawn_silver": {
@@ -16109,7 +16109,7 @@
         "grade": "Senior",
         "position": "TE",
         "jerseyNumber": 87,
-        "usage": 0.059
+        "usage": 0.06
     },
     "2025_sam_huard": {
         "id": "2025_sam_huard",
@@ -16154,10 +16154,10 @@
     "2025_jayden_maiava": {
         "id": "2025_jayden_maiava",
         "name": "Jayden Maiava",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "QB",
         "jerseyNumber": 14,
-        "usage": 0.512
+        "usage": 0.525
     },
     "2025_kamari_ramsey": {
         "id": "2025_kamari_ramsey",
@@ -16197,23 +16197,23 @@
         "grade": "Senior",
         "position": "WR",
         "jerseyNumber": 9,
-        "usage": 0.017
+        "usage": 0.019
     },
     "2025_garrison_madden": {
         "id": "2025_garrison_madden",
         "name": "Garrison Madden",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "LB",
-        "jerseyNumber": 29,
+        "jerseyNumber": 15,
         "usage": null
     },
     "2025_gage_roy": {
         "id": "2025_gage_roy",
         "name": "Gage Roy",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "QB",
-        "jerseyNumber": 28,
-        "usage": null
+        "jerseyNumber": 12,
+        "usage": 0.015
     },
     "2025_makai_lemon": {
         "id": "2025_makai_lemon",
@@ -16221,14 +16221,14 @@
         "grade": "Junior",
         "position": "WR",
         "jerseyNumber": 6,
-        "usage": 0.141
+        "usage": 0.147
     },
     "2025_jamaal_jarrett": {
         "id": "2025_jamaal_jarrett",
         "name": "Jamaal Jarrett",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "DT",
-        "jerseyNumber": 0,
+        "jerseyNumber": 99,
         "usage": null
     },
     "2025_ja_kobi_lane": {
@@ -16237,12 +16237,12 @@
         "grade": "Junior",
         "position": "WR",
         "jerseyNumber": 8,
-        "usage": 0.096
+        "usage": 0.098
     },
     "2025_braylan_shelby": {
         "id": "2025_braylan_shelby",
         "name": "Braylan Shelby",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "DE",
         "jerseyNumber": 10,
         "usage": null
@@ -16250,7 +16250,7 @@
     "2025_ta_mere_robinson": {
         "id": "2025_ta_mere_robinson",
         "name": "Ta'Mere Robinson",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "LB",
         "jerseyNumber": 14,
         "usage": null
@@ -16274,7 +16274,7 @@
     "2025_carson_tabaracci": {
         "id": "2025_carson_tabaracci",
         "name": "Carson Tabaracci",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "TE",
         "jerseyNumber": 24,
         "usage": 0.033
@@ -16282,15 +16282,15 @@
     "2025_devan_thompkins": {
         "id": "2025_devan_thompkins",
         "name": "Devan Thompkins",
-        "grade": "Junior",
-        "position": "DT",
-        "jerseyNumber": 8,
+        "grade": "Senior",
+        "position": "DL",
+        "jerseyNumber": 1,
         "usage": null
     },
     "2025_elijah_paige": {
         "id": "2025_elijah_paige",
         "name": "Elijah Paige",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "OL",
         "jerseyNumber": 72,
         "usage": null
@@ -16298,7 +16298,7 @@
     "2025_micah_banuelos": {
         "id": "2025_micah_banuelos",
         "name": "Micah Banuelos",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "OL",
         "jerseyNumber": 59,
         "usage": null
@@ -16306,15 +16306,15 @@
     "2025_christian_pierce": {
         "id": "2025_christian_pierce",
         "name": "Christian Pierce",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "S",
-        "jerseyNumber": 24,
+        "jerseyNumber": 6,
         "usage": null
     },
     "2025_alani_noa": {
         "id": "2025_alani_noa",
         "name": "Alani Noa",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "OL",
         "jerseyNumber": 77,
         "usage": null
@@ -16322,7 +16322,7 @@
     "2025_tobias_raymond": {
         "id": "2025_tobias_raymond",
         "name": "Tobias Raymond",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "OL",
         "jerseyNumber": 73,
         "usage": null
@@ -16330,23 +16330,23 @@
     "2025_marquis_gallegos": {
         "id": "2025_marquis_gallegos",
         "name": "Marquis Gallegos",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "S",
         "jerseyNumber": 30,
         "usage": null
     },
-    "2025_bryan_jackson": {
-        "id": "2025_bryan_jackson",
-        "name": "Bryan Jackson",
-        "grade": "Sophomore",
+    "2025_bryan_jackson_ii": {
+        "id": "2025_bryan_jackson_ii",
+        "name": "Bryan Jackson II",
+        "grade": "Junior",
         "position": "RB",
         "jerseyNumber": 21,
-        "usage": 0.072
+        "usage": null
     },
     "2025_walter_matthews": {
         "id": "2025_walter_matthews",
         "name": "Walter Matthews",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "TE",
         "jerseyNumber": 23,
         "usage": null
@@ -16354,23 +16354,23 @@
     "2025_joey_olsen": {
         "id": "2025_joey_olsen",
         "name": "Joey Olsen",
-        "grade": "Freshman",
+        "grade": "Junior",
         "position": "TE",
-        "jerseyNumber": 18,
-        "usage": null
+        "jerseyNumber": 4,
+        "usage": 0.016
     },
     "2025_isaiah_rubin": {
         "id": "2025_isaiah_rubin",
         "name": "Isaiah Rubin",
-        "grade": "Freshman",
-        "position": "CB",
+        "grade": "Sophomore",
+        "position": "S",
         "jerseyNumber": 38,
         "usage": null
     },
     "2025_marcelles_williams": {
         "id": "2025_marcelles_williams",
         "name": "Marcelles Williams",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "CB",
         "jerseyNumber": 25,
         "usage": null
@@ -16402,7 +16402,7 @@
     "2025_roman_marchetti": {
         "id": "2025_roman_marchetti",
         "name": "Roman Marchetti",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "LB",
         "jerseyNumber": 57,
         "usage": null
@@ -16410,7 +16410,7 @@
     "2025_kilian_o_connor": {
         "id": "2025_kilian_o_connor",
         "name": "Kilian O'Connor",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "OL",
         "jerseyNumber": 67,
         "usage": null
@@ -16418,23 +16418,23 @@
     "2025_makai_saina": {
         "id": "2025_makai_saina",
         "name": "Makai Saina",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "OL",
-        "jerseyNumber": 78,
+        "jerseyNumber": 73,
         "usage": null
     },
     "2025_kennedy_urlacher": {
         "id": "2025_kennedy_urlacher",
         "name": "Kennedy Urlacher",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "S",
-        "jerseyNumber": 28,
+        "jerseyNumber": 9,
         "usage": null
     },
     "2025_justin_tauanuu": {
         "id": "2025_justin_tauanuu",
         "name": "Justin Tauanuu",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "OL",
         "jerseyNumber": 74,
         "usage": null
@@ -16442,31 +16442,31 @@
     "2025_desman_stephens_ii": {
         "id": "2025_desman_stephens_ii",
         "name": "Desman Stephens II",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "LB",
-        "jerseyNumber": 23,
+        "jerseyNumber": 8,
         "usage": null
     },
-    "2025_xavier_jordan": {
-        "id": "2025_xavier_jordan",
-        "name": "Xavier Jordan",
+    "2025_dj_jordan": {
+        "id": "2025_dj_jordan",
+        "name": "DJ Jordan",
         "grade": "Freshman",
         "position": "WR",
         "jerseyNumber": 19,
-        "usage": null
+        "usage": 0.017
     },
     "2025_braylon_conley": {
         "id": "2025_braylon_conley",
         "name": "Braylon Conley",
-        "grade": "Freshman",
-        "position": "CB",
-        "jerseyNumber": 22,
+        "grade": "Junior",
+        "position": "DB",
+        "jerseyNumber": 24,
         "usage": null
     },
-    "2025_kameryn_fountain": {
-        "id": "2025_kameryn_fountain",
-        "name": "Kameryn Fountain",
-        "grade": "Sophomore",
+    "2025_kameryn_crawford": {
+        "id": "2025_kameryn_crawford",
+        "name": "Kameryn Crawford",
+        "grade": "Junior",
         "position": "DE",
         "jerseyNumber": 1,
         "usage": null
@@ -16474,7 +16474,7 @@
     "2025_jide_abasiri": {
         "id": "2025_jide_abasiri",
         "name": "Jide Abasiri",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "DT",
         "jerseyNumber": 97,
         "usage": null
@@ -16492,7 +16492,7 @@
         "name": "Alex Graham",
         "grade": "Freshman",
         "position": "CB",
-        "jerseyNumber": 27,
+        "jerseyNumber": 7,
         "usage": null
     },
     "2025_husan_longstreet": {
@@ -16500,32 +16500,32 @@
         "name": "Husan Longstreet",
         "grade": "Freshman",
         "position": "QB",
-        "jerseyNumber": 4,
+        "jerseyNumber": 8,
         "usage": 0.094
     },
     "2025_kendarius_reddick": {
         "id": "2025_kendarius_reddick",
         "name": "Kendarius Reddick",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "S",
-        "jerseyNumber": 41,
+        "jerseyNumber": 23,
         "usage": null
     },
     "2025_matai_tagoa_i": {
         "id": "2025_matai_tagoa_i",
         "name": "Matai Tagoa'i",
-        "grade": "Freshman",
-        "position": "LB",
-        "jerseyNumber": 44,
+        "grade": "Sophomore",
+        "position": "S",
+        "jerseyNumber": 4,
         "usage": null
     },
     "2025_tanook_hines": {
         "id": "2025_tanook_hines",
         "name": "Tanook Hines",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "WR",
         "jerseyNumber": 16,
-        "usage": 0.055
+        "usage": 0.056
     },
     "2025_riley_wormley": {
         "id": "2025_riley_wormley",
@@ -16538,7 +16538,7 @@
     "2025_hayden_treter": {
         "id": "2025_hayden_treter",
         "name": "Hayden Treter",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "OL",
         "jerseyNumber": 68,
         "usage": null
@@ -16554,7 +16554,7 @@
     "2025_elijah_newby": {
         "id": "2025_elijah_newby",
         "name": "Elijah Newby",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "LB",
         "jerseyNumber": 26,
         "usage": null
@@ -16562,7 +16562,7 @@
     "2025_ratumana_bulabalavu": {
         "id": "2025_ratumana_bulabalavu",
         "name": "Ratumana Bulabalavu",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "OL",
         "jerseyNumber": 75,
         "usage": null
@@ -16570,9 +16570,9 @@
     "2025_carlon_jones": {
         "id": "2025_carlon_jones",
         "name": "Carlon Jones",
-        "grade": "Freshman",
-        "position": "DT",
-        "jerseyNumber": 92,
+        "grade": "Junior",
+        "position": "DL",
+        "jerseyNumber": 91,
         "usage": null
     },
     "2025_chasen_johnson": {
@@ -16580,13 +16580,13 @@
         "name": "Chasen Johnson",
         "grade": "Sophomore",
         "position": "CB",
-        "jerseyNumber": 21,
+        "jerseyNumber": 27,
         "usage": null
     },
     "2025_corey_simms": {
         "id": "2025_corey_simms",
         "name": "Corey Simms",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "WR",
         "jerseyNumber": 10,
         "usage": 0.017
@@ -16594,9 +16594,9 @@
     "2025_jadyn_walker": {
         "id": "2025_jadyn_walker",
         "name": "Jadyn Walker",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "LB",
-        "jerseyNumber": 31,
+        "jerseyNumber": 15,
         "usage": null
     },
     "2025_dylan_gebbia": {
@@ -16610,9 +16610,9 @@
     "2025_kevin_longstreet": {
         "id": "2025_kevin_longstreet",
         "name": "Kevin Longstreet",
-        "grade": "Sophomore",
-        "position": "CB",
-        "jerseyNumber": 34,
+        "grade": "Senior",
+        "position": "S",
+        "jerseyNumber": 20,
         "usage": null
     },
     "2025_prince_strachan": {
@@ -16658,8 +16658,8 @@
     "2025_jahkeem_stewart": {
         "id": "2025_jahkeem_stewart",
         "name": "Jahkeem Stewart",
-        "grade": "Freshman",
-        "position": "DE",
+        "grade": "Sophomore",
+        "position": "DT",
         "jerseyNumber": 4,
         "usage": null
     },
@@ -16668,15 +16668,15 @@
         "name": "RJ Sermons",
         "grade": "Freshman",
         "position": "CB",
-        "jerseyNumber": 42,
+        "jerseyNumber": 21,
         "usage": null
     },
     "2025_alex_payne": {
         "id": "2025_alex_payne",
         "name": "Alex Payne",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "OL",
-        "jerseyNumber": 71,
+        "jerseyNumber": 76,
         "usage": null
     },
     "2025_trestin_castro": {
@@ -16701,22 +16701,22 @@
         "grade": "Senior",
         "position": "WR",
         "jerseyNumber": 15,
-        "usage": 0.039
+        "usage": 0.042
     },
     "2025_gus_cordova": {
         "id": "2025_gus_cordova",
         "name": "Gus Cordova",
         "grade": "Freshman",
         "position": "DE",
-        "jerseyNumber": 90,
+        "jerseyNumber": 40,
         "usage": null
     },
     "2025_james_johnson": {
         "id": "2025_james_johnson",
         "name": "James Johnson",
-        "grade": "Freshman",
-        "position": "CB",
-        "jerseyNumber": 35,
+        "grade": "Sophomore",
+        "position": "S",
+        "jerseyNumber": 11,
         "usage": null
     },
     "2025_romero_ison": {
@@ -16724,13 +16724,13 @@
         "name": "Romero Ison",
         "grade": "Freshman",
         "position": "WR",
-        "jerseyNumber": 84,
+        "jerseyNumber": 18,
         "usage": null
     },
     "2025_floyd_boucard": {
         "id": "2025_floyd_boucard",
         "name": "Floyd Boucard",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "DT",
         "jerseyNumber": 88,
         "usage": null
@@ -16763,14 +16763,14 @@
         "id": "2025_steve_miller",
         "name": "Steve Miller",
         "grade": "Freshman",
-        "position": "S",
-        "jerseyNumber": 36,
+        "position": "DB",
+        "jerseyNumber": 23,
         "usage": null
     },
     "2025_rey_sanchez": {
         "id": "2025_rey_sanchez",
         "name": "Rey Sanchez",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "P",
         "jerseyNumber": 36,
         "usage": null
@@ -16794,7 +16794,7 @@
     "2025_ryon_sayeri": {
         "id": "2025_ryon_sayeri",
         "name": "Ryon Sayeri",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "P",
         "jerseyNumber": 48,
         "usage": null
@@ -16802,7 +16802,7 @@
     "2025_kaylon_miller": {
         "id": "2025_kaylon_miller",
         "name": "Kaylon Miller",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "OL",
         "jerseyNumber": 60,
         "usage": null
@@ -16810,9 +16810,9 @@
     "2025_seth_zamora": {
         "id": "2025_seth_zamora",
         "name": "Seth Zamora",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "WR",
-        "jerseyNumber": 82,
+        "jerseyNumber": 31,
         "usage": null
     },
     "2025_donovan_wood": {
@@ -16826,17 +16826,17 @@
     "2025_walker_lyons": {
         "id": "2025_walker_lyons",
         "name": "Walker Lyons",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "TE",
-        "jerseyNumber": 85,
+        "jerseyNumber": 7,
         "usage": 0.036
     },
     "2025_collin_fasse": {
         "id": "2025_collin_fasse",
         "name": "Collin Fasse",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "WR",
-        "jerseyNumber": 89,
+        "jerseyNumber": 82,
         "usage": null
     },
     "2025_kash_amos": {
@@ -16850,9 +16850,9 @@
     "2025_brendan_cho": {
         "id": "2025_brendan_cho",
         "name": "Brendan Cho",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "DT",
-        "jerseyNumber": 91,
+        "jerseyNumber": 89,
         "usage": null
     },
     "2025_brady_jung": {
@@ -16866,7 +16866,7 @@
     "2025_travis_leonard": {
         "id": "2025_travis_leonard",
         "name": "Travis Leonard",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "OL",
         "jerseyNumber": 62,
         "usage": null
@@ -16874,7 +16874,7 @@
     "2025_cian_mckelvey": {
         "id": "2025_cian_mckelvey",
         "name": "Cian McKelvey",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "RB",
         "jerseyNumber": 41,
         "usage": 0.017
@@ -16882,15 +16882,15 @@
     "2025_king_miller": {
         "id": "2025_king_miller",
         "name": "King Miller",
-        "grade": "Freshman",
+        "grade": "Sophomore",
         "position": "RB",
-        "jerseyNumber": 30,
+        "jerseyNumber": 8,
         "usage": 0.218
     },
     "2025_shawn_sehra": {
         "id": "2025_shawn_sehra",
         "name": "Shawn Sehra",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "CB",
         "jerseyNumber": 40,
         "usage": null
@@ -16898,7 +16898,7 @@
     "2025_erwin_taomi": {
         "id": "2025_erwin_taomi",
         "name": "Erwin Taomi",
-        "grade": "Sophomore",
+        "grade": "Junior",
         "position": "OL",
         "jerseyNumber": 65,
         "usage": null
@@ -16908,15 +16908,15 @@
         "name": "AJ Tuitele",
         "grade": "Freshman",
         "position": "LB",
-        "jerseyNumber": 54,
+        "jerseyNumber": 9,
         "usage": null
     },
     "2025_cash_jacobsen": {
         "id": "2025_cash_jacobsen",
         "name": "Cash Jacobsen",
         "grade": "Freshman",
-        "position": "DT",
-        "jerseyNumber": 98,
+        "position": "OL",
+        "jerseyNumber": 63,
         "usage": null
     },
     "2025_jadyn_ramos": {
@@ -16930,7 +16930,7 @@
     "2025_waymond_jordan": {
         "id": "2025_waymond_jordan",
         "name": "Waymond Jordan",
-        "grade": "Junior",
+        "grade": "Senior",
         "position": "RB",
         "jerseyNumber": 2,
         "usage": 0.252
@@ -16975,12 +16975,1020 @@
         "jerseyNumber": 93,
         "usage": null
     },
-    "2025_dj_jordan": {
-        "id": "2025_dj_jordan",
-        "name": "DJ Jordan",
+    "2026_sam_huard": {
+        "id": "2026_sam_huard",
+        "name": "Sam Huard",
+        "grade": "Senior",
+        "position": "QB",
+        "jerseyNumber": 7,
+        "usage": null
+    },
+    "2026_dylan_black": {
+        "id": "2026_dylan_black",
+        "name": "Dylan Black",
+        "grade": "Senior",
+        "position": "LS",
+        "jerseyNumber": 46,
+        "usage": null
+    },
+    "2026_zuriah_fisher": {
+        "id": "2026_zuriah_fisher",
+        "name": "Zuriah Fisher",
+        "grade": "Senior",
+        "position": "DE",
+        "jerseyNumber": 18,
+        "usage": null
+    },
+    "2026_prophet_brown": {
+        "id": "2026_prophet_brown",
+        "name": "Prophet Brown",
+        "grade": "Senior",
+        "position": "CB",
+        "jerseyNumber": 16,
+        "usage": null
+    },
+    "2026_jayden_maiava": {
+        "id": "2026_jayden_maiava",
+        "name": "Jayden Maiava",
+        "grade": "Senior",
+        "position": "QB",
+        "jerseyNumber": 14,
+        "usage": 0.407
+    },
+    "2026_alex_vansumeren": {
+        "id": "2026_alex_vansumeren",
+        "name": "Alex VanSumeren",
+        "grade": "Senior",
+        "position": "DT",
+        "jerseyNumber": 91,
+        "usage": null
+    },
+    "2026_jamaal_jarrett": {
+        "id": "2026_jamaal_jarrett",
+        "name": "Jamaal Jarrett",
+        "grade": "Junior",
+        "position": "DT",
+        "jerseyNumber": 99,
+        "usage": null
+    },
+    "2026_braylan_shelby": {
+        "id": "2026_braylan_shelby",
+        "name": "Braylan Shelby",
+        "grade": "Senior",
+        "position": "DE",
+        "jerseyNumber": 10,
+        "usage": null
+    },
+    "2026_ta_mere_robinson": {
+        "id": "2026_ta_mere_robinson",
+        "name": "Ta'Mere Robinson",
+        "grade": "Junior",
+        "position": "LB",
+        "jerseyNumber": 14,
+        "usage": null
+    },
+    "2026_nate_hillenburg": {
+        "id": "2026_nate_hillenburg",
+        "name": "Nate Hillenburg",
+        "grade": "Senior",
+        "position": "P",
+        "jerseyNumber": 39,
+        "usage": null
+    },
+    "2026_carson_tabaracci": {
+        "id": "2026_carson_tabaracci",
+        "name": "Carson Tabaracci",
+        "grade": "Senior",
+        "position": "TE",
+        "jerseyNumber": 24,
+        "usage": 0.027
+    },
+    "2026_jontez_williams": {
+        "id": "2026_jontez_williams",
+        "name": "Jontez Williams",
+        "grade": "Senior",
+        "position": "CB",
+        "jerseyNumber": 0,
+        "usage": null
+    },
+    "2026_elijah_paige": {
+        "id": "2026_elijah_paige",
+        "name": "Elijah Paige",
+        "grade": "Junior",
+        "position": "OL",
+        "jerseyNumber": 72,
+        "usage": null
+    },
+    "2026_christian_pierce": {
+        "id": "2026_christian_pierce",
+        "name": "Christian Pierce",
+        "grade": "Senior",
+        "position": "S",
+        "jerseyNumber": 6,
+        "usage": null
+    },
+    "2026_alani_noa": {
+        "id": "2026_alani_noa",
+        "name": "Alani Noa",
+        "grade": "Senior",
+        "position": "OL",
+        "jerseyNumber": 77,
+        "usage": null
+    },
+    "2026_deven_bryant": {
+        "id": "2026_deven_bryant",
+        "name": "Deven Bryant",
+        "grade": "Junior",
+        "position": "LB",
+        "jerseyNumber": 17,
+        "usage": null
+    },
+    "2026_tucker_ashcraft": {
+        "id": "2026_tucker_ashcraft",
+        "name": "Tucker Ashcraft",
+        "grade": "Junior",
+        "position": "TE",
+        "jerseyNumber": 84,
+        "usage": 0.013
+    },
+    "2026_tobias_raymond": {
+        "id": "2026_tobias_raymond",
+        "name": "Tobias Raymond",
+        "grade": "Junior",
+        "position": "OL",
+        "jerseyNumber": 73,
+        "usage": null
+    },
+    "2026_marquis_gallegos": {
+        "id": "2026_marquis_gallegos",
+        "name": "Marquis Gallegos",
+        "grade": "Sophomore",
+        "position": "S",
+        "jerseyNumber": 30,
+        "usage": null
+    },
+    "2026_walter_matthews": {
+        "id": "2026_walter_matthews",
+        "name": "Walter Matthews",
+        "grade": "Sophomore",
+        "position": "TE",
+        "jerseyNumber": 23,
+        "usage": 0.014
+    },
+    "2026_isaiah_rubin": {
+        "id": "2026_isaiah_rubin",
+        "name": "Isaiah Rubin",
+        "grade": "Sophomore",
+        "position": "S",
+        "jerseyNumber": 38,
+        "usage": null
+    },
+    "2026_marcelles_williams": {
+        "id": "2026_marcelles_williams",
+        "name": "Marcelles Williams",
+        "grade": "Sophomore",
+        "position": "CB",
+        "jerseyNumber": 25,
+        "usage": null
+    },
+    "2026_ryan_o_connell": {
+        "id": "2026_ryan_o_connell",
+        "name": "Ryan O'Connell",
+        "grade": "Senior",
+        "position": "LB",
+        "jerseyNumber": 41,
+        "usage": null
+    },
+    "2026_terrell_anderson": {
+        "id": "2026_terrell_anderson",
+        "name": "Terrell Anderson",
+        "grade": "Junior",
+        "position": "WR",
+        "jerseyNumber": 9,
+        "usage": null
+    },
+    "2026_roman_marchetti": {
+        "id": "2026_roman_marchetti",
+        "name": "Roman Marchetti",
+        "grade": "Senior",
+        "position": "LB",
+        "jerseyNumber": 57,
+        "usage": null
+    },
+    "2026_kilian_o_connor": {
+        "id": "2026_kilian_o_connor",
+        "name": "Kilian O'Connor",
+        "grade": "Senior",
+        "position": "OL",
+        "jerseyNumber": 67,
+        "usage": null
+    },
+    "2026_ryan_pauley": {
+        "id": "2026_ryan_pauley",
+        "name": "Ryan Pauley",
+        "grade": "Senior",
+        "position": "OL",
+        "jerseyNumber": 64,
+        "usage": null
+    },
+    "2026_kennedy_urlacher": {
+        "id": "2026_kennedy_urlacher",
+        "name": "Kennedy Urlacher",
+        "grade": "Junior",
+        "position": "S",
+        "jerseyNumber": 9,
+        "usage": null
+    },
+    "2026_justin_tauanuu": {
+        "id": "2026_justin_tauanuu",
+        "name": "Justin Tauanuu",
+        "grade": "Sophomore",
+        "position": "OL",
+        "jerseyNumber": 74,
+        "usage": null
+    },
+    "2026_desman_stephens_ii": {
+        "id": "2026_desman_stephens_ii",
+        "name": "Desman Stephens II",
+        "grade": "Junior",
+        "position": "LB",
+        "jerseyNumber": 8,
+        "usage": null
+    },
+    "2026_kameryn_crawford": {
+        "id": "2026_kameryn_crawford",
+        "name": "Kameryn Crawford",
+        "grade": "Junior",
+        "position": "DE",
+        "jerseyNumber": 1,
+        "usage": null
+    },
+    "2026_jide_abasiri": {
+        "id": "2026_jide_abasiri",
+        "name": "Jide Abasiri",
+        "grade": "Junior",
+        "position": "DT",
+        "jerseyNumber": 97,
+        "usage": null
+    },
+    "2026_alex_graham": {
+        "id": "2026_alex_graham",
+        "name": "Alex Graham",
+        "grade": "Freshman",
+        "position": "CB",
+        "jerseyNumber": 7,
+        "usage": null
+    },
+    "2026_kendarius_reddick": {
+        "id": "2026_kendarius_reddick",
+        "name": "Kendarius Reddick",
+        "grade": "Sophomore",
+        "position": "S",
+        "jerseyNumber": 23,
+        "usage": null
+    },
+    "2026_tanook_hines": {
+        "id": "2026_tanook_hines",
+        "name": "Tanook Hines",
+        "grade": "Sophomore",
+        "position": "WR",
+        "jerseyNumber": 16,
+        "usage": 0.021
+    },
+    "2026_riley_wormley": {
+        "id": "2026_riley_wormley",
+        "name": "Riley Wormley",
+        "grade": "Freshman",
+        "position": "RB",
+        "jerseyNumber": 27,
+        "usage": 0.05
+    },
+    "2026_hayden_treter": {
+        "id": "2026_hayden_treter",
+        "name": "Hayden Treter",
+        "grade": "Sophomore",
+        "position": "OL",
+        "jerseyNumber": 68,
+        "usage": null
+    },
+    "2026_zacharyus_williams": {
+        "id": "2026_zacharyus_williams",
+        "name": "Zacharyus Williams",
+        "grade": "Sophomore",
+        "position": "WR",
+        "jerseyNumber": 0,
+        "usage": null
+    },
+    "2026_elijah_newby": {
+        "id": "2026_elijah_newby",
+        "name": "Elijah Newby",
+        "grade": "Sophomore",
+        "position": "LB",
+        "jerseyNumber": 26,
+        "usage": null
+    },
+    "2026_ratumana_bulabalavu": {
+        "id": "2026_ratumana_bulabalavu",
+        "name": "Ratumana Bulabalavu",
+        "grade": "Sophomore",
+        "position": "OL",
+        "jerseyNumber": 75,
+        "usage": null
+    },
+    "2026_chasen_johnson": {
+        "id": "2026_chasen_johnson",
+        "name": "Chasen Johnson",
+        "grade": "Sophomore",
+        "position": "CB",
+        "jerseyNumber": 27,
+        "usage": null
+    },
+    "2026_corey_simms": {
+        "id": "2026_corey_simms",
+        "name": "Corey Simms",
+        "grade": "Sophomore",
+        "position": "WR",
+        "jerseyNumber": 10,
+        "usage": 0.054
+    },
+    "2026_jadyn_walker": {
+        "id": "2026_jadyn_walker",
+        "name": "Jadyn Walker",
+        "grade": "Sophomore",
+        "position": "LB",
+        "jerseyNumber": 15,
+        "usage": null
+    },
+    "2026_ethan_brougham": {
+        "id": "2026_ethan_brougham",
+        "name": "Ethan Brougham",
+        "grade": "Junior",
+        "position": "DE",
+        "jerseyNumber": 54,
+        "usage": null
+    },
+    "2026_giancarlo_rufo": {
+        "id": "2026_giancarlo_rufo",
+        "name": "GianCarlo Rufo",
+        "grade": "Senior",
+        "position": "LB",
+        "jerseyNumber": 58,
+        "usage": null
+    },
+    "2026_shahn_alston": {
+        "id": "2026_shahn_alston",
+        "name": "Shahn Alston",
+        "grade": "Freshman",
+        "position": "RB",
+        "jerseyNumber": 22,
+        "usage": 0.072
+    },
+    "2026_tron_baker": {
+        "id": "2026_tron_baker",
+        "name": "Tron Baker",
         "grade": "Freshman",
         "position": "WR",
+        "jerseyNumber": 85,
+        "usage": 0.027
+    },
+    "2026_breck_kolojay": {
+        "id": "2026_breck_kolojay",
+        "name": "Breck Kolojay",
+        "grade": "Freshman",
+        "position": "OL",
+        "jerseyNumber": 66,
+        "usage": null
+    },
+    "2026_brandon_lockhart": {
+        "id": "2026_brandon_lockhart",
+        "name": "Brandon Lockhart",
+        "grade": "Freshman",
+        "position": "CB",
         "jerseyNumber": 19,
-        "usage": 0.017
+        "usage": null
+    },
+    "2026_shaun_scott": {
+        "id": "2026_shaun_scott",
+        "name": "Shaun Scott",
+        "grade": "Freshman",
+        "position": "LB",
+        "jerseyNumber": 24,
+        "usage": null
+    },
+    "2026_keenyi_pepe": {
+        "id": "2026_keenyi_pepe",
+        "name": "Keenyi Pepe",
+        "grade": "Freshman",
+        "position": "OL",
+        "jerseyNumber": 71,
+        "usage": null
+    },
+    "2026_joshua_holland_ii": {
+        "id": "2026_joshua_holland_ii",
+        "name": "Joshua Holland II",
+        "grade": "Freshman",
+        "position": "CB",
+        "jerseyNumber": 29,
+        "usage": null
+    },
+    "2026_talanoa_ili": {
+        "id": "2026_talanoa_ili",
+        "name": "Talanoa Ili",
+        "grade": "Freshman",
+        "position": "LB",
+        "jerseyNumber": 22,
+        "usage": null
+    },
+    "2026_deshonne_redeaux": {
+        "id": "2026_deshonne_redeaux",
+        "name": "Deshonne Redeaux",
+        "grade": "Freshman",
+        "position": "RB",
+        "jerseyNumber": 6,
+        "usage": 0.027
+    },
+    "2026_jahkeem_stewart": {
+        "id": "2026_jahkeem_stewart",
+        "name": "Jahkeem Stewart",
+        "grade": "Sophomore",
+        "position": "DT",
+        "jerseyNumber": 4,
+        "usage": null
+    },
+    "2026_tomuhini_topui": {
+        "id": "2026_tomuhini_topui",
+        "name": "Tomuhini Topui",
+        "grade": "Freshman",
+        "position": "DT",
+        "jerseyNumber": 52,
+        "usage": null
+    },
+    "2026_luke_wafle": {
+        "id": "2026_luke_wafle",
+        "name": "Luke Wafle",
+        "grade": "Freshman",
+        "position": "DE",
+        "jerseyNumber": 94,
+        "usage": null
+    },
+    "2026_elbert_hill_iv": {
+        "id": "2026_elbert_hill_iv",
+        "name": "Elbert Hill IV",
+        "grade": "Freshman",
+        "position": "CB",
+        "jerseyNumber": 2,
+        "usage": null
+    },
+    "2026_trent_mosley": {
+        "id": "2026_trent_mosley",
+        "name": "Trent Mosley",
+        "grade": "Freshman",
+        "position": "WR",
+        "jerseyNumber": 4,
+        "usage": 0.077
+    },
+    "2026_rj_sermons": {
+        "id": "2026_rj_sermons",
+        "name": "RJ Sermons",
+        "grade": "Freshman",
+        "position": "CB",
+        "jerseyNumber": 21,
+        "usage": null
+    },
+    "2026_kayden_dixon_wyatt": {
+        "id": "2026_kayden_dixon_wyatt",
+        "name": "Kayden Dixon-Wyatt",
+        "grade": "Freshman",
+        "position": "WR",
+        "jerseyNumber": 17,
+        "usage": 0.068
+    },
+    "2026_jayden_crowder": {
+        "id": "2026_jayden_crowder",
+        "name": "Jayden Crowder",
+        "grade": "Freshman",
+        "position": "CB",
+        "jerseyNumber": 34,
+        "usage": null
+    },
+    "2026_alex_medyn": {
+        "id": "2026_alex_medyn",
+        "name": "Alex Medyn",
+        "grade": "Freshman",
+        "position": "QB",
+        "jerseyNumber": 21,
+        "usage": null
+    },
+    "2026_jonas_williams": {
+        "id": "2026_jonas_williams",
+        "name": "Jonas Williams",
+        "grade": "Freshman",
+        "position": "QB",
+        "jerseyNumber": 15,
+        "usage": 0.077
+    },
+    "2026_simote_katoanga": {
+        "id": "2026_simote_katoanga",
+        "name": "Simote Katoanga",
+        "grade": "Freshman",
+        "position": "DE",
+        "jerseyNumber": 49,
+        "usage": null
+    },
+    "2026_trestin_castro": {
+        "id": "2026_trestin_castro",
+        "name": "Trestin Castro",
+        "grade": "Freshman",
+        "position": "CB",
+        "jerseyNumber": 37,
+        "usage": null
+    },
+    "2026_madden_riordan": {
+        "id": "2026_madden_riordan",
+        "name": "Madden Riordan",
+        "grade": "Freshman",
+        "position": "S",
+        "jerseyNumber": 31,
+        "usage": null
+    },
+    "2026_caden_chittenden": {
+        "id": "2026_caden_chittenden",
+        "name": "Caden Chittenden",
+        "grade": "Sophomore",
+        "position": "PK",
+        "jerseyNumber": 45,
+        "usage": null
+    },
+    "2026_romero_ison": {
+        "id": "2026_romero_ison",
+        "name": "Romero Ison",
+        "grade": "Freshman",
+        "position": "WR",
+        "jerseyNumber": 18,
+        "usage": null
+    },
+    "2026_floyd_boucard": {
+        "id": "2026_floyd_boucard",
+        "name": "Floyd Boucard",
+        "grade": "Sophomore",
+        "position": "DT",
+        "jerseyNumber": 88,
+        "usage": null
+    },
+    "2026_roderick_tezeno": {
+        "id": "2026_roderick_tezeno",
+        "name": "Roderick Tezeno",
+        "grade": "Freshman",
+        "position": "WR",
+        "jerseyNumber": 82,
+        "usage": null
+    },
+    "2026_taniela_tupou": {
+        "id": "2026_taniela_tupou",
+        "name": "Taniela Tupou",
+        "grade": "Freshman",
+        "position": "TE",
+        "jerseyNumber": 88,
+        "usage": 0.014
+    },
+    "2026_braeden_jones": {
+        "id": "2026_braeden_jones",
+        "name": "Braeden Jones",
+        "grade": "Freshman",
+        "position": "DT",
+        "jerseyNumber": 44,
+        "usage": null
+    },
+    "2026_esun_tafa": {
+        "id": "2026_esun_tafa",
+        "name": "Esun Tafa",
+        "grade": "Freshman",
+        "position": "OL",
+        "jerseyNumber": 57,
+        "usage": null
+    },
+    "2026_elijah_vaikona": {
+        "id": "2026_elijah_vaikona",
+        "name": "Elijah Vaikona",
+        "grade": "Freshman",
+        "position": "OL",
+        "jerseyNumber": 79,
+        "usage": null
+    },
+    "2026_willi_wascher": {
+        "id": "2026_willi_wascher",
+        "name": "Willi Wascher",
+        "grade": "Freshman",
+        "position": "OL",
+        "jerseyNumber": 52,
+        "usage": null
+    },
+    "2026_vlad_dyakonov": {
+        "id": "2026_vlad_dyakonov",
+        "name": "Vlad Dyakonov",
+        "grade": "Freshman",
+        "position": "OL",
+        "jerseyNumber": 51,
+        "usage": null
+    },
+    "2026_kannon_smith": {
+        "id": "2026_kannon_smith",
+        "name": "Kannon Smith",
+        "grade": "Freshman",
+        "position": "OL",
+        "jerseyNumber": 56,
+        "usage": null
+    },
+    "2026_jordan_abarca": {
+        "id": "2026_jordan_abarca",
+        "name": "Jordan Abarca",
+        "grade": "Sophomore",
+        "position": "DT",
+        "jerseyNumber": 96,
+        "usage": null
+    },
+    "2026_rey_sanchez": {
+        "id": "2026_rey_sanchez",
+        "name": "Rey Sanchez",
+        "grade": "Senior",
+        "position": "P",
+        "jerseyNumber": 36,
+        "usage": null
+    },
+    "2026_ryon_sayeri": {
+        "id": "2026_ryon_sayeri",
+        "name": "Ryon Sayeri",
+        "grade": "Sophomore",
+        "position": "P",
+        "jerseyNumber": 48,
+        "usage": null
+    },
+    "2026_kaylon_miller": {
+        "id": "2026_kaylon_miller",
+        "name": "Kaylon Miller",
+        "grade": "Sophomore",
+        "position": "OL",
+        "jerseyNumber": 60,
+        "usage": null
+    },
+    "2026_seth_zamora": {
+        "id": "2026_seth_zamora",
+        "name": "Seth Zamora",
+        "grade": "Sophomore",
+        "position": "WR",
+        "jerseyNumber": 31,
+        "usage": null
+    },
+    "2026_brendan_cho": {
+        "id": "2026_brendan_cho",
+        "name": "Brendan Cho",
+        "grade": "Sophomore",
+        "position": "DT",
+        "jerseyNumber": 89,
+        "usage": null
+    },
+    "2026_travis_leonard": {
+        "id": "2026_travis_leonard",
+        "name": "Travis Leonard",
+        "grade": "Sophomore",
+        "position": "OL",
+        "jerseyNumber": 62,
+        "usage": null
+    },
+    "2026_cian_mckelvey": {
+        "id": "2026_cian_mckelvey",
+        "name": "Cian McKelvey",
+        "grade": "Junior",
+        "position": "RB",
+        "jerseyNumber": 41,
+        "usage": null
+    },
+    "2026_king_miller": {
+        "id": "2026_king_miller",
+        "name": "King Miller",
+        "grade": "Sophomore",
+        "position": "RB",
+        "jerseyNumber": 8,
+        "usage": 0.231
+    },
+    "2026_shawn_sehra": {
+        "id": "2026_shawn_sehra",
+        "name": "Shawn Sehra",
+        "grade": "Junior",
+        "position": "CB",
+        "jerseyNumber": 40,
+        "usage": null
+    },
+    "2026_erwin_taomi": {
+        "id": "2026_erwin_taomi",
+        "name": "Erwin Taomi",
+        "grade": "Junior",
+        "position": "OL",
+        "jerseyNumber": 65,
+        "usage": null
+    },
+    "2026_jaimeon_winfield": {
+        "id": "2026_jaimeon_winfield",
+        "name": "Jaimeon Winfield",
+        "grade": "Freshman",
+        "position": "DT",
+        "jerseyNumber": 45,
+        "usage": null
+    },
+    "2026_peyton_dyer": {
+        "id": "2026_peyton_dyer",
+        "name": "Peyton Dyer",
+        "grade": "Freshman",
+        "position": "S",
+        "jerseyNumber": 36,
+        "usage": null
+    },
+    "2026_luc_weaver": {
+        "id": "2026_luc_weaver",
+        "name": "Luc Weaver",
+        "grade": "Freshman",
+        "position": "WR",
+        "jerseyNumber": 80,
+        "usage": null
+    },
+    "2026_cash_jacobsen": {
+        "id": "2026_cash_jacobsen",
+        "name": "Cash Jacobsen",
+        "grade": "Freshman",
+        "position": "OL",
+        "jerseyNumber": 63,
+        "usage": null
+    },
+    "2026_mark_bowman": {
+        "id": "2026_mark_bowman",
+        "name": "Mark Bowman",
+        "grade": "Freshman",
+        "position": "TE",
+        "jerseyNumber": 19,
+        "usage": 0.054
+    },
+    "2026_jadyn_ramos": {
+        "id": "2026_jadyn_ramos",
+        "name": "Jadyn Ramos",
+        "grade": "Freshman",
+        "position": "DE",
+        "jerseyNumber": 95,
+        "usage": null
+    },
+    "2026_andrew_williams": {
+        "id": "2026_andrew_williams",
+        "name": "Andrew Williams",
+        "grade": "Freshman",
+        "position": "DE",
+        "jerseyNumber": 51,
+        "usage": null
+    },
+    "2026_ethan_feaster": {
+        "id": "2026_ethan_feaster",
+        "name": "Ethan Feaster",
+        "grade": "Freshman",
+        "position": "WR",
+        "jerseyNumber": 1,
+        "usage": 0.014
+    },
+    "2026_john_fifita": {
+        "id": "2026_john_fifita",
+        "name": "John Fifita",
+        "grade": "Freshman",
+        "position": "OL",
+        "jerseyNumber": 76,
+        "usage": null
+    },
+    "2026_jake_johnson": {
+        "id": "2026_jake_johnson",
+        "name": "Jake Johnson",
+        "grade": "Freshman",
+        "position": "DT",
+        "jerseyNumber": 90,
+        "usage": null
+    },
+    "2026_chase_deniz": {
+        "id": "2026_chase_deniz",
+        "name": "Chase Deniz",
+        "grade": "Freshman",
+        "position": "OL",
+        "jerseyNumber": 78,
+        "usage": null
+    },
+    "2026_taylor_johnson": {
+        "id": "2026_taylor_johnson",
+        "name": "Taylor Johnson",
+        "grade": "Freshman",
+        "position": "LB",
+        "jerseyNumber": 50,
+        "usage": null
+    },
+    "2026_waymond_jordan": {
+        "id": "2026_waymond_jordan",
+        "name": "Waymond Jordan",
+        "grade": "Senior",
+        "position": "RB",
+        "jerseyNumber": 2,
+        "usage": 0.149
+    },
+    "2026_fisher_melton": {
+        "id": "2026_fisher_melton",
+        "name": "Fisher Melton",
+        "grade": "Freshman",
+        "position": "TE",
+        "jerseyNumber": 49,
+        "usage": null
+    },
+    "2026_luke_brown": {
+        "id": "2026_luke_brown",
+        "name": "Luke Brown",
+        "grade": "Freshman",
+        "position": "LS",
+        "jerseyNumber": 53,
+        "usage": null
+    },
+    "2026_aaron_dunn": {
+        "id": "2026_aaron_dunn",
+        "name": "Aaron Dunn",
+        "grade": "Freshman",
+        "position": "OL",
+        "jerseyNumber": 70,
+        "usage": null
+    },
+    "2026_cameron_sermons": {
+        "id": "2026_cameron_sermons",
+        "name": "Cameron Sermons",
+        "grade": "Freshman",
+        "position": "WR",
+        "jerseyNumber": 81,
+        "usage": null
+    },
+    "2026_william_weisberg": {
+        "id": "2026_william_weisberg",
+        "name": "William Weisberg",
+        "grade": "Freshman",
+        "position": "P",
+        "jerseyNumber": 93,
+        "usage": null
+    },
+    "2026_lachlan_carrigan": {
+        "id": "2026_lachlan_carrigan",
+        "name": "Lachlan Carrigan",
+        "grade": "Sophomore",
+        "position": "P",
+        "jerseyNumber": 35,
+        "usage": null
+    },
+    "2026_carrington_pierce": {
+        "id": "2026_carrington_pierce",
+        "name": "Carrington Pierce",
+        "grade": "Sophomore",
+        "position": "CB",
+        "jerseyNumber": 28,
+        "usage": null
+    },
+    "2026_peter_sciarrino": {
+        "id": "2026_peter_sciarrino",
+        "name": "Peter Sciarrino",
+        "grade": "Freshman",
+        "position": "S",
+        "jerseyNumber": 39,
+        "usage": null
+    },
+    "2026_nick_de_fina": {
+        "id": "2026_nick_de_fina",
+        "name": "Nick De Fina",
+        "grade": "Senior",
+        "position": "LB",
+        "jerseyNumber": 46,
+        "usage": null
+    },
+    "2026_james_johnson": {
+        "id": "2026_james_johnson",
+        "name": "James Johnson",
+        "grade": "Freshman",
+        "position": "QB",
+        "jerseyNumber": 28,
+        "usage": null
+    },
+    "2026_will_doherty": {
+        "id": "2026_will_doherty",
+        "name": "Will Doherty",
+        "grade": "Junior",
+        "position": "QB",
+        "jerseyNumber": 29,
+        "usage": null
+    },
+    "2026_kayne_miller": {
+        "id": "2026_kayne_miller",
+        "name": "Kayne Miller",
+        "grade": "Freshman",
+        "position": "RB",
+        "jerseyNumber": 30,
+        "usage": null
+    },
+    "2026_tyson_park": {
+        "id": "2026_tyson_park",
+        "name": "Tyson Park",
+        "grade": "Freshman",
+        "position": "RB",
+        "jerseyNumber": 34,
+        "usage": null
+    },
+    "2026_ty_swanson": {
+        "id": "2026_ty_swanson",
+        "name": "Ty Swanson",
+        "grade": "Freshman",
+        "position": "DE",
+        "jerseyNumber": 35,
+        "usage": null
+    },
+    "2026_patrick_o_brien": {
+        "id": "2026_patrick_o_brien",
+        "name": "Patrick O'Brien",
+        "grade": "Sophomore",
+        "position": "TE",
+        "jerseyNumber": 38,
+        "usage": null
+    },
+    "2026_marcus_sung": {
+        "id": "2026_marcus_sung",
+        "name": "Marcus Sung",
+        "grade": "Junior",
+        "position": "WR",
+        "jerseyNumber": 40,
+        "usage": null
+    },
+    "2026_manoah_leiato": {
+        "id": "2026_manoah_leiato",
+        "name": "Manoah Leiato",
+        "grade": "Freshman",
+        "position": "TE",
+        "jerseyNumber": 44,
+        "usage": null
+    },
+    "2026_austin_engroff": {
+        "id": "2026_austin_engroff",
+        "name": "Austin Engroff",
+        "grade": "Freshman",
+        "position": "LB",
+        "jerseyNumber": 47,
+        "usage": null
+    },
+    "2026_derek_diniz": {
+        "id": "2026_derek_diniz",
+        "name": "Derek Diniz",
+        "grade": "Freshman",
+        "position": "CB",
+        "jerseyNumber": 48,
+        "usage": null
+    },
+    "2026_grant_woods": {
+        "id": "2026_grant_woods",
+        "name": "Grant Woods",
+        "grade": "Freshman",
+        "position": "WR",
+        "jerseyNumber": 49,
+        "usage": null
+    },
+    "2026_luke_degner": {
+        "id": "2026_luke_degner",
+        "name": "Luke Degner",
+        "grade": "Senior",
+        "position": "WR",
+        "jerseyNumber": 86,
+        "usage": null
+    },
+    "2026_josiah_jefferson": {
+        "id": "2026_josiah_jefferson",
+        "name": "Josiah Jefferson",
+        "grade": "Junior",
+        "position": "TE",
+        "jerseyNumber": 87,
+        "usage": null
+    },
+    "2026_griffin_brahm": {
+        "id": "2026_griffin_brahm",
+        "name": "Griffin Brahm",
+        "grade": "Freshman",
+        "position": "WR",
+        "jerseyNumber": 89,
+        "usage": null
+    },
+    "2026_sam_smith": {
+        "id": "2026_sam_smith",
+        "name": "Sam Smith",
+        "grade": "Freshman",
+        "position": "DE",
+        "jerseyNumber": 92,
+        "usage": null
+    },
+    "2026_zachary_nandlal": {
+        "id": "2026_zachary_nandlal",
+        "name": "Zachary Nandlal",
+        "grade": "Sophomore",
+        "position": "P",
+        "jerseyNumber": 37,
+        "usage": null
     }
 }
