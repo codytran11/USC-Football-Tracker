@@ -1,119 +1,205 @@
 import SwiftUI
 
 struct LandingView: View {
+
     let onContinue: () -> Void
 
     var body: some View {
         ZStack {
-            Color.appBackground
-                .ignoresSafeArea()
+
+            LinearGradient(
+                colors: [
+                    Color(red: 0.25, green: 0.0, blue: 0.0),
+                    Color(red: 0.55, green: 0.0, blue: 0.0),
+                    Color(red: 0.20, green: 0.0, blue: 0.0)
+                ],
+                startPoint: .topLeading,
+                endPoint: .bottomTrailing
+            )
+            .ignoresSafeArea()
 
             ScrollView {
-                VStack(spacing: 28) {
+                VStack(spacing: 26) {
 
-                    Spacer(minLength: 40)
+                    Spacer(minLength: 45)
 
-                    // App icon / logo
-                    Image("AppIcon")
+                    // App logo
+                    Image("LandingLogo")
                         .resizable()
                         .scaledToFit()
-                        .frame(width: 110, height: 110)
+                        .frame(width: 125, height: 125)
+                        .clipShape(
+                            RoundedRectangle(cornerRadius: 28)
+                        )
+                        .shadow(
+                            color: .black.opacity(0.25),
+                            radius: 10,
+                            y: 5
+                        )
 
-                    VStack(spacing: 10) {
-                        Text("USC Football Tracker")
-                            .font(.system(size: 32, weight: .bold, design: .rounded))
-                            .foregroundStyle(.uscCardinal)
-                            .multilineTextAlignment(.center)
+                    VStack(spacing: 8) {
 
-                        Text("The App for all USC Football Fans.")
+                        Text("USC Football")
+                            .font(
+                                .system(
+                                    size: 34,
+                                    weight: .bold,
+                                    design: .rounded
+                                )
+                            )
+                            .foregroundStyle(.white)
+
+                        Text("Tracker")
+                            .font(
+                                .system(
+                                    size: 34,
+                                    weight: .bold,
+                                    design: .rounded
+                                )
+                            )
+                            .foregroundStyle(.uscGold)
+
+                        Text("Your USC Football Companion")
                             .font(.title3)
-                            .foregroundStyle(.primary)
+                            .foregroundStyle(
+                                Color.white.opacity(0.8)
+                            )
                             .multilineTextAlignment(.center)
                     }
 
-                    VStack(spacing: 14) {
-                        LandingFeature(
+                    
+                    Text(
+                        "Go Through USC football history, follow the current team, and discover what the numbers say about the season."
+                    )
+                    .font(.body)
+                    .foregroundStyle(
+                        Color.white.opacity(0.8)
+                    )
+                    .multilineTextAlignment(.center)
+                    .padding(.horizontal, 8)
+
+               
+                    VStack(spacing: 10) {
+
+                        LandingHighlight(
                             icon: "clock.arrow.circlepath",
-                            title: "Explore Data",
-                            description: "Browse seasons, game results, rosters, and coaches."
+                            text: "100+ years of USC football history"
                         )
 
-                        LandingFeature(
-                            icon: "trophy.fill",
-                            title: "USC Accolades",
-                            description: "Explore championships, Heisman winners, records, and more."
+                        LandingHighlight(
+                            icon: "person.3.fill",
+                            text: "Current rosters, coaches, and schedules"
                         )
 
-                        LandingFeature(
+                        LandingHighlight(
                             icon: "chart.line.uptrend.xyaxis",
-                            title: "Season Predictor",
-                            description: "View machine-learning-powered predictions for the upcoming season."
+                            text: "Machine-learning season predictions"
                         )
                     }
-                    .padding(.horizontal, 4)
 
+                    // Main button
                     Button {
                         onContinue()
                     } label: {
-                        HStack {
+
+                        HStack(spacing: 10) {
+
                             Text("Explore USC Football")
-                                .font(.headline)
+                                .font(
+                                    .headline.weight(.bold)
+                                )
 
-                            Image(systemName: "arrow.right")
-                                .font(.headline)
+                            Image(
+                                systemName: "arrow.right"
+                            )
+                            .font(
+                                .headline.weight(.bold)
+                            )
                         }
-                        .foregroundStyle(.white)
+                        .foregroundStyle(
+                            Color(
+                                red: 0.28,
+                                green: 0.0,
+                                blue: 0.0
+                            )
+                        )
                         .frame(maxWidth: .infinity)
-                        .padding(.vertical, 15)
-                        .background(.uscCardinal)
-                        .clipShape(RoundedRectangle(cornerRadius: 14))
+                        .padding(.vertical, 16)
+                        .background(.uscGold)
+                        .clipShape(
+                            RoundedRectangle(
+                                cornerRadius: 14
+                            )
+                        )
+                        .shadow(
+                            color: .black.opacity(0.2),
+                            radius: 8,
+                            y: 4
+                        )
                     }
-                    .padding(.top, 8)
+                    .padding(.top, 4)
 
-                    Text("Built independently as a student project.")
-                        .font(.caption)
-                        .foregroundStyle(.secondary)
+                 
+                    VStack(spacing: 5) {
+
+                        Text("FIGHT ON!")
+                            .font(
+                                .caption.weight(.bold)
+                            )
+                            .tracking(1.2)
+                            .foregroundStyle(.uscGold)
+
+                       
                         .multilineTextAlignment(.center)
+                    }
 
                     Spacer(minLength: 30)
                 }
                 .padding(.horizontal, 24)
             }
         }
-        .preferredColorScheme(.light)
+        .preferredColorScheme(.dark)
     }
 }
 
-private struct LandingFeature: View {
+private struct LandingHighlight: View {
+
     let icon: String
-    let title: String
-    let description: String
+    let text: String
 
     var body: some View {
-        HStack(alignment: .top, spacing: 14) {
+
+        HStack(spacing: 12) {
+
             Image(systemName: icon)
-                .font(.title3)
-                .foregroundStyle(.uscCardinal)
-                .frame(width: 34)
+                .font(.body.weight(.semibold))
+                .foregroundStyle(.uscGold)
+                .frame(width: 28)
 
-            VStack(alignment: .leading, spacing: 4) {
-                Text(title)
-                    .font(.headline)
-                    .foregroundStyle(.primary)
-
-                Text(description)
-                    .font(.subheadline)
-                    .foregroundStyle(.secondary)
-            }
+            Text(text)
+                .font(.subheadline)
+                .foregroundStyle(.white)
 
             Spacer()
         }
-        .padding(16)
-        .background(.white)
-        .clipShape(RoundedRectangle(cornerRadius: 14))
+        .padding(.horizontal, 14)
+        .padding(.vertical, 12)
+        .background(
+            Color.black.opacity(0.15)
+        )
+        .clipShape(
+            RoundedRectangle(
+                cornerRadius: 12
+            )
+        )
         .overlay(
-            RoundedRectangle(cornerRadius: 14)
-                .stroke(.uscCardinal.opacity(0.12), lineWidth: 1)
+            RoundedRectangle(
+                cornerRadius: 12
+            )
+            .stroke(
+                Color.uscGold.opacity(0.18),
+                lineWidth: 1
+            )
         )
     }
 }
